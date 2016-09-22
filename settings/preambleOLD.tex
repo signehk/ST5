@@ -1,6 +1,6 @@
 %page setup (page size, text size, page layout, chapters start on a new page).
 %memoir is a form of book class that supports any kind of document.
-\documentclass[fleqn,a4paper,12pt,twoside,openany,danish]{memoir}
+\documentclass[fleqn,a4paper,12pt,twoside,openany]{memoir}
 
 %setting the header and footer in that order:
 \setheadfoot{28pt}{28pt} %if any problems are encountered, try changing the latter 28pt with 1cm.
@@ -8,15 +8,12 @@
 %setting language:
 \RequirePackage[danish]{babel}
 
-\usepackage{tocbibind}
-
 %this package makes it possible to treat any element as a float,
 %figures and tables are by default treated as floats.
 %read http://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions to specify your float.
 \usepackage{float}
 \usepackage{wrapfig}
 \usepackage{placeins}
-\usepackage{tabu}
 
 %this package makes it possible to make theorems and examples:
 \usepackage{amsthm}
@@ -37,13 +34,10 @@
 \usepackage{multirow}
 
 %package for subfigures
-%\usepackage{graphicx}
-%\usepackage{caption}
-
+%\usepackage{subcaption}
 
 %package for captions
-\usepackage[nooneline,labelfont=bf]{caption}
-\usepackage{subcaption}
+\usepackage[nooneline]{caption}
 
 %%package for implementation of math:
 \usepackage{amsmath , amsfonts , amssymb, float}
@@ -58,9 +52,9 @@
 \hypersetup{
 %	bookmarks = true,  % Show 'bookmark'-frame in pdf.
 	colorlinks = true, % True = colored links, False = framed links.
-	citecolor = black,  % Link color for references.
-	linkcolor = black,  % Link color in table of contents.
-	urlcolor = black,   % Link color for extern URLs.
+	citecolor = blue,  % Link color for references.
+	linkcolor = blue,  % Link color in table of contents.
+	urlcolor = blue,   % Link color for extern URLs.
 }
 
 %makes it possible to refer to the name of a chapter rather than just the number.
@@ -68,7 +62,7 @@
 
 %package for the SI unit standard
 \usepackage{siunitx}
-\usepackage{units}
+\usepackage{unit}
 
 %package for writing program code in latex
 \usepackage{listings}
@@ -102,7 +96,6 @@ escapeinside={\%*}{*)}          % if you want to add a comment within your code
 \usepackage[backend=biber,url=true,doi=true,style=numeric, sorting=none]{biblatex}
 \bibliography{bibliography/bibliography.bib}
 
-
 %this package makes it possible include pdf pages in fx appendix;
 %using  following syntax: \includepdf[pages={1}]{myfile.pdf}
 \usepackage{pdfpages}
@@ -112,20 +105,10 @@ escapeinside={\%*}{*)}          % if you want to add a comment within your code
 \setulmarginsandblock{2.5cm}{3.0cm}{*}	% \setulmarginsandblock{top}{bottom}{ratio}
 \checkandfixthelayout 			            % fixes stuff..
 
-%%%%% Afsnitsformatering %%%%%%
-\setlength{\parindent}{6mm}				% Stoerrelsen af indryk
-\setlength{\parskip}{0mm}				% Afstand mellem afsnit ved 2xenter
-\linespread{1,1}						% Linje afstand 
-
 %Enables the use FiXme refferences. Syntax: \fxnote{...}
 %With "final" in stead of "draft" an error will ocure for every FiXme
 %under compilation.
-\usepackage[footnote,final,english,silent,nomargin]{fixme}
-
-\addto\captionsdanish{% Replace "english" with the language you use
-	\renewcommand{\contentsname}%
-	{Indholdsfortegnelse}%
-}
+\usepackage[footnote,draft,english,silent,nomargin]{fixme}
 
 %%%CHAPTERLAYOUT%%%
 %setting the color of the chapter number
@@ -153,6 +136,8 @@ escapeinside={\%*}{*)}          % if you want to add a comment within your code
     \fi
   }
 }
+
+\usepackage{tabu}
 %setting chapter style:
 \chapterstyle{jenor}
 
@@ -169,7 +154,7 @@ escapeinside={\%*}{*)}          % if you want to add a comment within your code
 }
 \nouppercaseheads											% Ingen Caps oenskes
 
-\makeevenhead{AAU}{}{}{\leftmark}				% Definerer lige siders sidehoved (\makeevenhead{Navn}{Venstre}{Center}{Hoejre})
+\makeevenhead{AAU}{Gruppe B207}{}{\leftmark}				% Definerer lige siders sidehoved (\makeevenhead{Navn}{Venstre}{Center}{Hoejre})
 \makeoddhead{AAU}{\rightmark}{}{Aalborg Universitet}		% Definerer ulige siders sidehoved (\makeoddhead{Navn}{Venstre}{Center}{Hoejre})
 \makeevenfoot{AAU}{\thepage}{}{}							% Definerer lige siders sidefod (\makeevenfoot{Navn}{Venstre}{Center}{Hoejre})
 \makeoddfoot{AAU}{}{}{\thepage}								% Definerer ulige siders sidefod (\makeoddfoot{Navn}{Venstre}{Center}{Hoejre})
@@ -185,13 +170,14 @@ escapeinside={\%*}{*)}          % if you want to add a comment within your code
 
 \pagestyle{AAU}												% Valg af sidehoved og sidefod
 
+
 \usepackage{textpos}
 
 %depth of numbered headlines (part/chapter/section/subsection):
 \setsecnumdepth{subsection}
 \maxsecnumdepth{subsection}
 %depth of the table of contents:
-\settocdepth{subsection}
+\settocdepth{section}
 
 % Makes sure LaTeX does not stretch the text at page break:
 \raggedbottom
