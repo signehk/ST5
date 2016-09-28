@@ -2,8 +2,19 @@
 % Encoding: MacRoman
 
 
+@Manual{aagaard2014,
+  Title                    = {Fysisk Aktivitet},
+  Author                   = {P. G. Aagaard},
+  Organization             = {Sundhed.dk},
+  Year                     = {2014},
+
+  Owner                    = {signehk},
+  Timestamp                = {2016.09.27},
+  Url                      = {https://www.sundhed.dk/borger/sygdomme-a-aa/sundhedsoplysning/idraet-og-motion/fysisk-inaktivitet/}
+}
+
 @Book{mtvhaandbog,
-  Title                    = {Metodehåndbog for Medicinsk Teknologivurdering},
+  Title                    = {Metodeh{\aa}ndbog for Medicinsk Teknologivurdering},
   Author                   = {F. B. Kristensen and H. Sigmund},
   Publisher                = {Sundhedsstyrelsen},
   Year                     = {2007},
@@ -12,5 +23,14 @@
   ISBN                     = {978-87-7676-620-7},
   Owner                    = {signehk},
   Timestamp                = {2016.09.22}
+}
+
+@Manual{motionsraad2007,
+  Title                    = {Fysisk inaktivitet - konsekvenser og sammenh{\ae}nge},
+  Organization             = {Motions- og Ern{\ae}ringsr{\aa}det},
+  Year                     = {2007},
+
+  Owner                    = {signehk},
+  Timestamp                = {2016.09.27}
 }
 
