@@ -1,14 +1,25 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{5}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Kristensen and Sigmund(2007)]{mtvhaandbog}
+\bibitem[aag()]{aagaard2014}
+\emph{Fysisk Inaktivitet}.
+
+\bibitem[mot()]{motionsraad2007}
+\emph{Fysisk inaktivitet - konsekvenser og sammenh{\ae}nge}.
+
+\bibitem[Pedersen and Andersen()]{pedersen2011}
+B.~K. Pedersen and L.~B. Andersen.
+\newblock \emph{Fysisk aktivitet - h{\aa}ndbog om forebyggelse og behandling}.
+
+\bibitem[ols()]{olsen2015}
+\emph{Hypertension}.
+
+\bibitem[Kristensen and Sigmund()]{mtvhaandbog}
 F.~B. Kristensen and H.~Sigmund.
-\newblock \emph{Metodeh{\aa}ndbog for Medicinsk Teknologivurdering}, volume~2.
-\newblock Sundhedsstyrelsen, 2007.
-\newblock ISBN 978-87-7676-620-7.
+\newblock \emph{Metodeh{\aa}ndbog for Medicinsk Teknologivurdering}.
 
 \end{thebibliography}
