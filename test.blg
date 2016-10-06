@@ -17,6 +17,7 @@ Warning--entry type for "olsen2015" isn't style-file defined
 --line 117 of file bibliography/bibliography.bib
 Warning--entry type for "motionsraad2007" isn't style-file defined
 --line 158 of file bibliography/bibliography.bib
+Warning--I didn't find a database entry for "adamo"
 Warning--empty year in aagaard2014
 Warning--empty year in motionsraad2007
 Warning--empty publisher in pedersen2011
@@ -52,7 +53,7 @@ Warning--empty year in mtvhaandbog
 Warning--empty year in mtvhaandbog
 You've used 17 entries,
             2481 wiz_defined-function locations,
-            604 strings with 6626 characters,
+            605 strings with 6631 characters,
 and the built_in function-call counts, 4581 in all, are:
 = -- 338
 > -- 192
@@ -91,4 +92,4 @@ warning$ -- 33
 while$ -- 20
 width$ -- 0
 write$ -- 162
-(There were 40 warnings)
+(There were 41 warnings)
