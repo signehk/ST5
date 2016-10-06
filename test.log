@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.26)  6 OCT 2016 10:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.26)  6 OCT 2016 11:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2036,18 +2036,7 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 11.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 86.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 86.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 86.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 86.
- [12
-
-])
+))
 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
@@ -2058,7 +2047,18 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 33.
-[13]
+[12
+
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 33.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 33.
+ [13]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
@@ -2080,7 +2080,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
 Here is how much of TeX's memory you used:
  26094 strings out of 493117
  453472 string characters out of 6135433
- 786478 words of memory out of 5000000
+ 787478 words of memory out of 5000000
  29097 multiletter control sequences out of 15000+600000
  20373 words of font info for 56 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -2099,7 +2099,7 @@ live/2014/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texli
 ve/2014/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texlive
 /2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2
 014/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on test.pdf (13 pages, 383240 bytes).
+Output written on test.pdf (13 pages, 383099 bytes).
 PDF statistics:
  305 PDF objects out of 1000 (max. 8388607)
  269 compressed objects within 3 object streams
