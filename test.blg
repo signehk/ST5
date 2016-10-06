@@ -8,7 +8,13 @@ Warning--I didn't find a database entry for "juel2006"
 Warning--I didn't find a database entry for "paulsen2012"
 Warning--I didn't find a database entry for "cheung2012"
 Warning--I didn't find a database entry for "lodberg2016"
+Warning--I didn't find a database entry for "gupta2013"
+Warning--I didn't find a database entry for "terkelsen2015"
 Warning--I didn't find a database entry for "adamo2009"
+Warning--I didn't find a database entry for "muller2009"
+Warning--I didn't find a database entry for "vestergaard2012"
+Warning--I didn't find a database entry for "jensen2012"
+Warning--I didn't find a database entry for "snorgaard2010"
 Warning--empty year in aagaard2014
 Warning--empty year in motionsraad2007
 Warning--empty publisher in pedersen2011
@@ -20,7 +26,7 @@ Warning--empty year in mtvhaandbog
 Warning--empty year in mtvhaandbog
 You've used 5 entries,
             2481 wiz_defined-function locations,
-            569 strings with 4812 characters,
+            575 strings with 4882 characters,
 and the built_in function-call counts, 1190 in all, are:
 = -- 88
 > -- 30
@@ -59,4 +65,4 @@ warning$ -- 9
 while$ -- 4
 width$ -- 0
 write$ -- 46
-(There were 15 warnings)
+(There were 21 warnings)

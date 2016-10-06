@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.26)  6 OCT 2016 09:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.26)  6 OCT 2016 09:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1894,7 +1894,7 @@ Package natbib Warning: Citation `cheung2012' on page 4 undefined on input line
 Package natbib Warning: Citation `lodberg2016' on page 4 undefined on input lin
 e 9.
 
-) (./contents/bProblemanalyse/Nuvaerende-Bias.tex
+) (./contents/bProblemanalyse/hNuvaerendeMetoder.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1912,59 +1912,128 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
 
-Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-2.
-
-
-Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-3.
-
-
-Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
+Package natbib Warning: Citation `gupta2013' on page 5 undefined on input line 
 4.
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 2--5
-\T1/cmr/m/n/10.95 anvendes er selvudfyldt dokumentation, som f.eks. en aktivite
-tslog, aktivitetsdagbog,
+Package natbib Warning: Citation `terkelsen2015' on page 5 undefined on input l
+ine 4.
+
+
+Package natbib Warning: Citation `gupta2013' on page 5 undefined on input line 
+8.
+
+
+Package natbib Warning: Citation `gupta2013' on page 5 undefined on input line 
+10.
+
+
+Package natbib Warning: Citation `gupta2013' on page 5 undefined on input line 
+11.
+
+
+Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
+11.
+
+
+Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
+13.
+
+
+Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
+13.
+
+
+Package natbib Warning: Citation `muller2009' on page 5 undefined on input line
+ 15.
+
+
+Package natbib Warning: Citation `gupta2013' on page 5 undefined on input line 
+16.
+
+
+Package natbib Warning: Citation `vestergaard2012' on page 5 undefined on input
+ line 16.
+
+
+Package natbib Warning: Citation `muller2009' on page 5 undefined on input line
+ 18.
+
+
+Package natbib Warning: Citation `gupta2013' on page 5 undefined on input line 
+18.
+
+
+Package natbib Warning: Citation `gupta2013' on page 5 undefined on input line 
+20.
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 18--21
+[]\T1/cmr/m/n/10.95 Alternativt anvendes aktivitetsdagbøger [\T1/cmr/bx/n/10.95
+ ? \T1/cmr/m/n/10.95 ] for at opnå en mere fyldestgørende
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 18--21
+\T1/cmr/m/n/10.95 indsigt i patientens aktivitetsmønster [\T1/cmr/bx/n/10.95 ? 
+\T1/cmr/m/n/10.95 ]. Dagbogen fungerer som en logbog, hvori
  []
 
 
 Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-6.
+26.
 
 
 Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-6.
+29.
 
 
 Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-7.
+29.
 
 
 Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-10.
+30.
 
 
-Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-12.
+Package natbib Warning: Citation `gupta2013' on page 5 undefined on input line 
+33.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 34.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 34.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 34.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 34.
+[5]
+
+Package natbib Warning: Citation `muller2009' on page 6 undefined on input line
+ 37.
 
 
-Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-14.
+Package natbib Warning: Citation `jensen2012' on page 6 undefined on input line
+ 37.
 
 
-Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-16.
+Package natbib Warning: Citation `snorgaard2010' on page 6 undefined on input l
+ine 37.
 
 
-Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-18.
+Package natbib Warning: Citation `gupta2013' on page 6 undefined on input line 
+40.
 
+) (./contents/bProblemanalyse/jAlternativeMetoder.tex
+Underfull \hbox (badness 1297) in paragraph at lines 37--1
+[]\T1/cmr/m/n/10.95 Som et led i behandling af kronikere, såsom overvægtige ell
+er diabetespatienter,,
+ []
 
-Package natbib Warning: Citation `adamo2009' on page 5 undefined on input line 
-20.
-
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
 ) (./contents/hMTV/cTeknologi/metode_teknologi.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -1974,7 +2043,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [5]
+ [6]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1993,7 +2062,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [6
+ [7
 
 ]
 Package babel Info: Redefining danish shorthand "|
@@ -2005,7 +2074,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 3.
 
-<figures/patientaspekter.png, id=128, 343.0416pt x 225.9642pt>
+<figures/patientaspekter.png, id=143, 343.0416pt x 225.9642pt>
 File: figures/patientaspekter.png Graphic file (type png)
 
 <use figures/patientaspekter.png>
@@ -2019,7 +2088,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 25.
- [7
+ [8
 
  <./figures/patientaspekter.png>])
 (./contents/hMTV/eOrganisation/Organisation-metode.tex
@@ -2031,7 +2100,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [8]
+ [9]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2041,7 +2110,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 4.
 
-<figures/leavitt.png, id=150, 475.0548pt x 216.3282pt>
+<figures/leavitt.png, id=165, 475.0548pt x 216.3282pt>
 File: figures/leavitt.png Graphic file (type png)
 
 <use figures/leavitt.png>
@@ -2055,7 +2124,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 24.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 24.
- [9
+ [10
 
  <./figures/leavitt.png>])
 (./contents/hMTV/fOekonomi/okonomi_metode.tex
@@ -2067,7 +2136,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 4.
- [10]
+ [11]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining danish shorthand "~
@@ -2085,7 +2154,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [11
+ [12
 
 ]
 Package babel Info: Redefining danish shorthand "|
@@ -2099,57 +2168,59 @@ Package natbib Warning: There were undefined citations.
 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
-[12
+(babel)             in language  on input line 33.
+[13
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 
 
 Package caption Warning: Unused \captionsetup[table] on input line 116.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 32.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 32.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
 (./test.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 32.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 32.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
 Package rerunfilecheck Info: File `test.out' has not changed.
-(rerunfilecheck)             Checksum: 594D00B994C24718A7DD4C56153312E8;909.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 32.
+(rerunfilecheck)             Checksum: BA693011AF63CD4F348D90026E44E46F;1096.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
  ) 
 Here is how much of TeX's memory you used:
- 26025 strings out of 493117
- 451786 string characters out of 6135433
+ 26039 strings out of 493117
+ 452131 string characters out of 6135433
  784478 words of memory out of 5000000
- 29048 multiletter control sequences out of 15000+600000
+ 29057 multiletter control sequences out of 15000+600000
  20059 words of font info for 55 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  57i,12n,92p,10452b,993s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/l
-ocal/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/loc
-al/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on test.pdf (12 pages, 325345 bytes).
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on test.pdf (13 pages, 347006 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 197 compressed objects within 2 object streams
- 46 named destinations out of 1000 (max. 500000)
- 147 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 250 PDF objects out of 1000 (max. 8388607)
+ 215 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
