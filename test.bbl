@@ -1,4 +1,4 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{10}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -17,6 +17,28 @@ B.~K. Pedersen and L.~B. Andersen.
 
 \bibitem[ols()]{olsen2015}
 \emph{Hypertension}.
+
+\bibitem[Kronborg et~al.()Kronborg, J., and Jacobsen]{kronborg2008}
+CN~Kronborg, Hallas J., and IA~Jacobsen.
+\newblock Prevalence, awareness, and control of arterial hypertension in
+  denmark.
+
+\bibitem[Juel et~al.()Juel, Sørensen, and Brønnum-Hansen]{juel2006}
+Knud Juel, Jan Sørensen, and Henrik Brønnum-Hansen.
+\newblock \emph{Risikofaktorer og folkesundhed i Danmark}.
+
+\bibitem[Paulsen et~al.()Paulsen, Andersen, and et~al.]{paulsen2012}
+MS~Paulsen, M~Andersen, and JL~Thomsen et~al.
+\newblock Multimorbidity and blood pressure control in 37651 hypertensive
+  patients from danish general practice.
+
+\bibitem[Cheung and Li()]{cheung2012}
+Bernard M.~Y. Cheung and Chao Li.
+\newblock Diabetes and hypertesion: Is there a common metabolic pathway?
+
+\bibitem[lod()]{lodberg2016}
+Hypertension.
+\newblock URL \url{http://nbv.cardio.dk/hypertension}.
 
 \bibitem[Kristensen and Sigmund()]{mtvhaandbog}
 F.~B. Kristensen and H.~Sigmund.
