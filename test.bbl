@@ -28,17 +28,10 @@ Fakta om fysisk aktivitet.
 \newblock URL
   \url{https://sundhedsstyrelsen.dk/~/media/10D9CDBFED9B4B71BFEA4262C2DD3573.ashx}.
 
-\bibitem[Ottesen et~al.()Ottesen, Vang, and Skjerk]{ottesen2005}
-Laila~Susanne Ottesen, Ide~Kristine Vang, and Ole Skjerk.
-\newblock Undersøgelse om fysisk inaktive danskere.
-
-\bibitem[R et~al.()R, T, and et~al.]{guthold2008}
-Guthold R, Ono T, and Strong~KL et~al.
-\newblock Worldwide variability in physical inactivity a 51-country survey.
-
-\bibitem[and()]{andersen2001}
-\emph{Fysisk aktivitet og sundhed}.
-\newblock Sundhedsstyrelsen.
+\bibitem[et~al.()]{andersen2001}
+Lars Bo~Andersen et~al.
+\newblock Fysisk aktivitet og sundhed.
+\newblock \emph{Sundhedsstyrelsen}.
 
 \bibitem[mar()]{martini2015}
 \emph{Fundamentals of Anatomy and Physiology}.
@@ -61,6 +54,14 @@ Psykiske sygdomme, fysisk aktivitet.
 \bibitem[sun()]{sundhedsstyrelsen2006}
 \emph{Fysisk aktivitet og Evidens}.
 \newblock Sundhedsstyrelsen.
+
+\bibitem[Ottesen et~al.()Ottesen, Vang, and Skjerk]{ottesen2005}
+Laila~Susanne Ottesen, Ide~Kristine Vang, and Ole Skjerk.
+\newblock Undersøgelse om fysisk inaktive danskere.
+
+\bibitem[R et~al.()R, T, and et~al.]{guthold2008}
+Guthold R, Ono T, and Strong~KL et~al.
+\newblock Worldwide variability in physical inactivity a 51-country survey.
 
 \bibitem[Convertino()]{Convertino1995}
 Victor~A. Convertino.

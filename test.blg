@@ -4,23 +4,22 @@ The top-level auxiliary file: test.aux
 The style file: unsrtnat.bst
 Database file #1: bibliography/bibliography.bib
 Warning--entry type for "ottesen2005" isn't style-file defined
---line 64 of file bibliography/bibliography.bib
+--line 68 of file bibliography/bibliography.bib
 Warning--entry type for "kessing2016" isn't style-file defined
---line 82 of file bibliography/bibliography.bib
+--line 86 of file bibliography/bibliography.bib
 Warning--entry type for "terkelsen2015" isn't style-file defined
---line 100 of file bibliography/bibliography.bib
+--line 104 of file bibliography/bibliography.bib
 Warning--entry type for "snorgaard2010" isn't style-file defined
---line 110 of file bibliography/bibliography.bib
+--line 114 of file bibliography/bibliography.bib
 Warning--entry type for "vestergaard2012" isn't style-file defined
---line 119 of file bibliography/bibliography.bib
+--line 123 of file bibliography/bibliography.bib
 Warning--entry type for "lodberg2016" isn't style-file defined
---line 157 of file bibliography/bibliography.bib
+--line 161 of file bibliography/bibliography.bib
 Warning--entry type for "olsen2015" isn't style-file defined
---line 206 of file bibliography/bibliography.bib
+--line 210 of file bibliography/bibliography.bib
 Warning--entry type for "motionsraad2007" isn't style-file defined
---line 247 of file bibliography/bibliography.bib
+--line 251 of file bibliography/bibliography.bib
 Warning--I didn't find a database entry for "hallal2012"
-Warning--I didn't find a database entry for "Bloomsfield1995"
 Name 1 in "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" has a comma at the end for entry Coyle1985
 while executing---line 1233 of file unsrtnat.bst
 Too many commas in name 1 of "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" for entry Coyle1985
@@ -52,11 +51,6 @@ Warning--empty publisher in pedersen2011
 Warning--empty year in pedersen2011
 Warning--empty year in pedersen2011
 Warning--empty year in terkelsen2015
-Warning--empty year in ottesen2005
-Warning--empty journal in guthold2008
-Warning--empty year in guthold2008
-Warning--empty year in guthold2008
-Warning--empty author and editor in andersen2001
 Warning--empty year in andersen2001
 Warning--empty year in andersen2001
 Warning--empty author and editor in martini2015
@@ -68,6 +62,10 @@ Warning--empty year in kessing2016
 Warning--empty author and editor in sundhedsstyrelsen2006
 Warning--empty year in sundhedsstyrelsen2006
 Warning--empty year in sundhedsstyrelsen2006
+Warning--empty year in ottesen2005
+Warning--empty journal in guthold2008
+Warning--empty year in guthold2008
+Warning--empty year in guthold2008
 Warning--empty journal in Convertino1995
 Warning--empty year in Convertino1995
 Warning--empty year in Convertino1995
@@ -157,43 +155,43 @@ Warning--empty year in jensen2012
 Warning--empty year in snorgaard2010
 You've used 30 entries,
             2481 wiz_defined-function locations,
-            653 strings with 8692 characters,
-and the built_in function-call counts, 8065 in all, are:
-= -- 592
-> -- 310
-< -- 8
-+ -- 148
-- -- 88
-* -- 588
-:= -- 1140
-add.period$ -- 63
+            652 strings with 8685 characters,
+and the built_in function-call counts, 8093 in all, are:
+= -- 596
+> -- 317
+< -- 9
++ -- 150
+- -- 90
+* -- 584
+:= -- 1158
+add.period$ -- 64
 call.type$ -- 30
-change.case$ -- 52
+change.case$ -- 53
 chr.to.int$ -- 30
-cite$ -- 110
-duplicate$ -- 515
-empty$ -- 896
-format.name$ -- 114
+cite$ -- 108
+duplicate$ -- 512
+empty$ -- 888
+format.name$ -- 117
 if$ -- 1713
 int.to.chr$ -- 1
 int.to.str$ -- 31
 missing$ -- 23
-newline$ -- 131
-num.names$ -- 54
-pop$ -- 411
+newline$ -- 132
+num.names$ -- 57
+pop$ -- 407
 preamble$ -- 1
 purify$ -- 30
 quote$ -- 0
-skip$ -- 288
+skip$ -- 289
 stack$ -- 0
-substring$ -- 72
+substring$ -- 71
 swap$ -- 50
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 189
-warning$ -- 68
-while$ -- 36
+type$ -- 192
+warning$ -- 67
+while$ -- 38
 width$ -- 0
-write$ -- 283
+write$ -- 285
 (There were 33 error messages)
