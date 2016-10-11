@@ -3,25 +3,135 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: test.aux
 The style file: unsrtnat.bst
 Database file #1: bibliography/bibliography.bib
+Warning--entry type for "ottesen2005" isn't style-file defined
+--line 64 of file bibliography/bibliography.bib
+Warning--entry type for "kessing2016" isn't style-file defined
+--line 82 of file bibliography/bibliography.bib
 Warning--entry type for "terkelsen2015" isn't style-file defined
---line 11 of file bibliography/bibliography.bib
+--line 100 of file bibliography/bibliography.bib
 Warning--entry type for "snorgaard2010" isn't style-file defined
---line 21 of file bibliography/bibliography.bib
+--line 110 of file bibliography/bibliography.bib
 Warning--entry type for "vestergaard2012" isn't style-file defined
---line 30 of file bibliography/bibliography.bib
-Warning--entry type for "gupta2013" isn't style-file defined
---line 39 of file bibliography/bibliography.bib
+--line 119 of file bibliography/bibliography.bib
 Warning--entry type for "lodberg2016" isn't style-file defined
---line 68 of file bibliography/bibliography.bib
+--line 157 of file bibliography/bibliography.bib
 Warning--entry type for "olsen2015" isn't style-file defined
---line 117 of file bibliography/bibliography.bib
+--line 206 of file bibliography/bibliography.bib
 Warning--entry type for "motionsraad2007" isn't style-file defined
---line 158 of file bibliography/bibliography.bib
+--line 247 of file bibliography/bibliography.bib
+Warning--I didn't find a database entry for "hallal2012"
+Warning--I didn't find a database entry for "Bloomsfield1995"
+Name 1 in "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" has a comma at the end for entry Coyle1985
+while executing---line 1233 of file unsrtnat.bst
+Too many commas in name 1 of "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" for entry Coyle1985
+while executing---line 1233 of file unsrtnat.bst
+Too many commas in name 1 of "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" for entry Coyle1985
+while executing---line 1233 of file unsrtnat.bst
+Name 1 in "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" has a comma at the end for entry Douglas2006
+while executing---line 1233 of file unsrtnat.bst
+Too many commas in name 1 of "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" for entry Douglas2006
+while executing---line 1233 of file unsrtnat.bst
+Too many commas in name 1 of "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" for entry Douglas2006
+while executing---line 1233 of file unsrtnat.bst
+Too many commas in name 1 of "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" for entry Douglas2006
+while executing---line 1233 of file unsrtnat.bst
+Too many commas in name 1 of "K. J. Mikines, E. A. Richter, F. Dela, H. Galbo" for entry Mikines1991
+while executing---line 1233 of file unsrtnat.bst
+Too many commas in name 1 of "Izumi Tabata, Youji Suzuki, Tetsuo Fukunaga, Toshiko Yokozeki, Hiroshi Akima, Kazuo Funato" for entry Tabata1999
+while executing---line 1233 of file unsrtnat.bst
+Too many commas in name 1 of "Izumi Tabata, Youji Suzuki, Tetsuo Fukunaga, Toshiko Yokozeki, Hiroshi Akima, Kazuo Funato" for entry Tabata1999
+while executing---line 1233 of file unsrtnat.bst
+Too many commas in name 1 of "Izumi Tabata, Youji Suzuki, Tetsuo Fukunaga, Toshiko Yokozeki, Hiroshi Akima, Kazuo Funato" for entry Tabata1999
+while executing---line 1233 of file unsrtnat.bst
 Warning--empty year in aagaard2014
 Warning--empty year in motionsraad2007
+Warning--empty author and editor in christensen2012
+Warning--empty year in christensen2012
+Warning--empty year in christensen2012
 Warning--empty publisher in pedersen2011
 Warning--empty year in pedersen2011
 Warning--empty year in pedersen2011
+Warning--empty year in terkelsen2015
+Warning--empty year in ottesen2005
+Warning--empty journal in guthold2008
+Warning--empty year in guthold2008
+Warning--empty year in guthold2008
+Warning--empty author and editor in andersen2001
+Warning--empty year in andersen2001
+Warning--empty year in andersen2001
+Warning--empty author and editor in martini2015
+Warning--empty year in martini2015
+Warning--empty year in martini2015
+Warning--empty year in warburton2010
+Warning--empty year in warburton2010
+Warning--empty year in kessing2016
+Warning--empty author and editor in sundhedsstyrelsen2006
+Warning--empty year in sundhedsstyrelsen2006
+Warning--empty year in sundhedsstyrelsen2006
+Warning--empty journal in Convertino1995
+Warning--empty year in Convertino1995
+Warning--empty year in Convertino1995
+Name 1 in "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" has a comma at the end for entry Coyle1985
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" for entry Coyle1985
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" for entry Coyle1985
+while executing---line 1315 of file unsrtnat.bst
+Name 1 in "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" has a comma at the end for entry Coyle1985
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" for entry Coyle1985
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "E. F. Coyle, W. H. Martin 3rd, D. R. Sinacore, M. J. Joyner, J. M. Hagberg, and J. O. Holloszy" for entry Coyle1985
+while executing---line 1315 of file unsrtnat.bst
+Warning--empty journal in Coyle1985
+Warning--empty year in Coyle1985
+Warning--empty year in Coyle1985
+Name 1 in "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" has a comma at the end for entry Douglas2006
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" for entry Douglas2006
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" for entry Douglas2006
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" for entry Douglas2006
+while executing---line 1315 of file unsrtnat.bst
+Name 1 in "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" has a comma at the end for entry Douglas2006
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" for entry Douglas2006
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" for entry Douglas2006
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Douglas Paddon-Jones, Melinda Sheffield-Moore, Melanie G. Cree, Susan J. Hewlings, Asle Aarsland, Robert R. Wolfe, and Arny A. Ferrando" for entry Douglas2006
+while executing---line 1315 of file unsrtnat.bst
+Warning--empty journal in Douglas2006
+Warning--empty year in Douglas2006
+Warning--empty year in Douglas2006
+Warning--empty journal in Bloomfield1995
+Warning--empty year in Bloomfield1995
+Warning--empty year in Bloomfield1995
+Too many commas in name 1 of "K. J. Mikines, E. A. Richter, F. Dela, H. Galbo" for entry Mikines1991
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "K. J. Mikines, E. A. Richter, F. Dela, H. Galbo" for entry Mikines1991
+while executing---line 1315 of file unsrtnat.bst
+Warning--empty journal in Mikines1991
+Warning--empty year in Mikines1991
+Warning--empty year in Mikines1991
+Too many commas in name 1 of "Izumi Tabata, Youji Suzuki, Tetsuo Fukunaga, Toshiko Yokozeki, Hiroshi Akima, Kazuo Funato" for entry Tabata1999
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Izumi Tabata, Youji Suzuki, Tetsuo Fukunaga, Toshiko Yokozeki, Hiroshi Akima, Kazuo Funato" for entry Tabata1999
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Izumi Tabata, Youji Suzuki, Tetsuo Fukunaga, Toshiko Yokozeki, Hiroshi Akima, Kazuo Funato" for entry Tabata1999
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Izumi Tabata, Youji Suzuki, Tetsuo Fukunaga, Toshiko Yokozeki, Hiroshi Akima, Kazuo Funato" for entry Tabata1999
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Izumi Tabata, Youji Suzuki, Tetsuo Fukunaga, Toshiko Yokozeki, Hiroshi Akima, Kazuo Funato" for entry Tabata1999
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Izumi Tabata, Youji Suzuki, Tetsuo Fukunaga, Toshiko Yokozeki, Hiroshi Akima, Kazuo Funato" for entry Tabata1999
+while executing---line 1315 of file unsrtnat.bst
+Warning--empty journal in Tabata1999
+Warning--empty year in Tabata1999
+Warning--empty year in Tabata1999
+Warning--empty year in galper2006
+Warning--empty year in galper2006
 Warning--empty year in olsen2015
 Warning--empty journal in kronborg2008
 Warning--empty year in kronborg2008
@@ -36,8 +146,6 @@ Warning--empty journal in cheung2012
 Warning--empty year in cheung2012
 Warning--empty year in cheung2012
 Warning--empty year in lodberg2016
-Warning--empty year in gupta2013
-Warning--empty year in terkelsen2015
 Warning--empty year in adamo2009
 Warning--empty year in adamo2009
 Warning--empty publisher in muller2009
@@ -47,48 +155,45 @@ Warning--empty year in vestergaard2012
 Warning--empty note in jensen2012
 Warning--empty year in jensen2012
 Warning--empty year in snorgaard2010
-Warning--empty publisher in mtvhaandbog
-Warning--empty year in mtvhaandbog
-Warning--empty year in mtvhaandbog
-You've used 17 entries,
+You've used 30 entries,
             2481 wiz_defined-function locations,
-            604 strings with 6626 characters,
-and the built_in function-call counts, 4581 in all, are:
-= -- 338
-> -- 192
-< -- 3
-+ -- 88
-- -- 54
-* -- 338
-:= -- 645
-add.period$ -- 35
-call.type$ -- 17
-change.case$ -- 29
-chr.to.int$ -- 17
-cite$ -- 57
-duplicate$ -- 274
-empty$ -- 498
-format.name$ -- 70
-if$ -- 976
+            653 strings with 8692 characters,
+and the built_in function-call counts, 8065 in all, are:
+= -- 592
+> -- 310
+< -- 8
++ -- 148
+- -- 88
+* -- 588
+:= -- 1140
+add.period$ -- 63
+call.type$ -- 30
+change.case$ -- 52
+chr.to.int$ -- 30
+cite$ -- 110
+duplicate$ -- 515
+empty$ -- 896
+format.name$ -- 114
+if$ -- 1713
 int.to.chr$ -- 1
-int.to.str$ -- 18
-missing$ -- 12
-newline$ -- 77
-num.names$ -- 30
-pop$ -- 228
+int.to.str$ -- 31
+missing$ -- 23
+newline$ -- 131
+num.names$ -- 54
+pop$ -- 411
 preamble$ -- 1
-purify$ -- 17
+purify$ -- 30
 quote$ -- 0
-skip$ -- 172
+skip$ -- 288
 stack$ -- 0
-substring$ -- 41
-swap$ -- 31
+substring$ -- 72
+swap$ -- 50
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 107
-warning$ -- 33
-while$ -- 20
+type$ -- 189
+warning$ -- 68
+while$ -- 36
 width$ -- 0
-write$ -- 162
-(There were 40 warnings)
+write$ -- 283
+(There were 33 error messages)
