@@ -1,4 +1,4 @@
-\begin{thebibliography}{30}
+\begin{thebibliography}{31}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -15,8 +15,10 @@ Fysisk inaktivitet - konsekvenser og sammenh{\ae}nge.
 \newblock URL
   \url{http://sundhedsstyrelsen.dk/publ/mer/2007/fysisk_inaktivitet-konsekvenser_og_sammenhaenge2007.pdf}.
 
-\bibitem[chr()]{christensen2012}
-\emph{Sundhed og sygelighed i Danmark 2010 - og udviklingen siden 1987}.
+\bibitem[Christensen et~al.()Christensen, Ekholm, and et~al.]{christensen2012}
+A.~I. Christensen, O.~Ekholm, and M.~Davidsen et~al.
+\newblock \emph{Sundhed og sygelighed i Danmark 2010 - og udviklingen siden
+  1987}.
 \newblock Statens Institut for Folkesundhed.
 
 \bibitem[Pedersen and Andersen()]{pedersen2011}
@@ -58,6 +60,11 @@ Psykiske sygdomme, fysisk aktivitet.
 \bibitem[Ottesen et~al.()Ottesen, Vang, and Skjerk]{ottesen2005}
 Laila~Susanne Ottesen, Ide~Kristine Vang, and Ole Skjerk.
 \newblock Undersøgelse om fysisk inaktive danskere.
+
+\bibitem[Hallal et~al.()Hallal, Andersen, and et~al.]{hallal2012}
+P.~C. Hallal, L.~B. Andersen, and F.~C.~Bull et~al.
+\newblock Global physical activity levels: surveillance progress, pitfalls, and
+  prospects.
 
 \bibitem[R et~al.()R, T, and et~al.]{guthold2008}
 Guthold R, Ono T, and Strong~KL et~al.
