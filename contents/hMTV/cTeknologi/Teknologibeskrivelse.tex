@@ -1,0 +1,104 @@
+\section{Teknologibeskrivelse}
+%\begin{itemize}
+%	\item Hvad består teknologien af?
+%	\begin{itemize}
+%		\item Hvilke dele består den af? (Hardware og software)
+
+Overordnet består et fitbit flex aktivitetsarmbånd af en flex tracker, oplader kabel, trådløs synkroniserings dongle og armbånd til flex tracker. Disse kan ligeledes ses af \autoref{fig:fitbitflexindhold}. 
+\end{enumerate}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\textwidth]{figures/fitbitflexindhold}
+	\caption{Fra venstre mod højre ses flex tracker, oplader kabel, trådløs synkroniserings dongle, armbånd \citep{fitbitflex}.}
+	\label{fig:fitbitflexindhold}
+\end{figure}
+
+Fitbit flex er i stand til at måle antal skridt, forbrændte kalorier, afstanden der er rejst, minutter brugeren er aktiv og tid samt kvalitet af søvn. 
+For at kan kunne se den registrerede aktivitet, skal armbåndet synkroniseres med en kompatibel enhed, da kun besidder et display bestående af fem individuelt styret LED'er.  
+Denne synkronisering forgår trådløst, ved brug af bluetooth low energy og kan forgå mellem forskellige enheder som for eksempel mobiltelefoner og computere. 
+Synkronisering mellem flex tracker og computer kræver anvendelse af den trådløs synkroniserings dongle, der ses af \autoref{fig:fitbitflexindhold}.
+Forudsætninger for at data kan synkroniseres, er at en kompatible enhed har den korrekte applikation installeret, hvor synkroniseringen ellers sker automatisk idet applikationen åbnes.  
+Yderligere skal der oprettes en brugerkonto på fitbit.com, hvor brugeren oplyser personlig info: køn, alder, højde og vægt. Dette er nødvendigt i forhold til optimeret estimering af forbrændte kalorier.  
+Gennem applikationen visualiseres den registrerede aktivitet, hvor brugeren har mulighed for at se data fra starttidspunktet for anvendelsen af armbåndet. Data kan også observeres via  fitbits hjemme side, hvor der er muligt at logge ind via brugerkontoen. 
+Til den daglige aktivitet har brugeren mulighed for at sætte bestemte mål, hvortil det angives hvor langt brugeren er fra at nå det givne fysiske mål.
+Fitbit flex armbåndet er ikke i stand til at visualisere batteriniveauet for armbåndet, hvortil dette ligeledes ses ved brug af applikationen. 
+Hukommelsen i flex trackeren, tillader detaljeret data at blive lagret i perioder op til 7 dage og består af minut til minut målinger. 
+Yderligere lagres summeringer af daglig aktivitet i op til 30 dage.
+Ved jævnlig synkronisering er det muligt for brugeren at bevare detaljeret data, da informationen tilknyttes brugerkontoen. 
+Fitbit anbefaler én daglig synkronisering, dog er det ikke en nødvendighed. 
+
+Armbåndet er vandtæt (ned til 10 meter)
+
+\textbf{SLEEP MODE}
+
+% Hvordan udregnes de reelle trackingsværdier, kalorier, afstand mm. 
+
+\subsection{Hardware}
+\textbf{Display:} 
+Flex trackeren er udstyret med fem LED'er, der ved forskellige operationstilstande signalerer til brugeren. 
+LED'erne kan fungere som indikator for progressionen i forhold til det brugerdefineret fysiske mål for dagen. Hertil vil hver LED repræsentere en procentvis progressionen i intervaller af $20 \%$. Eksempelvis hvis brugeren have opfyldt $73 \%$ af det fysisk mål, vil de første tre LED'er lyse og den fjerde ville blinke. Dette indikerer at brugeren har nået $60 \%$ af målet, og at brugeren nu befinder sig et sted mellem $60 \%$ og $80 \%$ 
+Det samme gør sig gældende når flex trackeren sættes til opladning. Her indikere LED'erne hvor langt armbåndet er fra fuld opladning, som signaleres ved fem lysende LED'er. 
+I tilfælde af synkroniseringsfejl vil dette også fremgå af LED'erne. Her vil armbåndet køre frem og tilbage mellem at have alle eller ingen LED'er tændt. 
+Ved manuel aktivering og de-aktivering af sleep mode, vil LED'erne indikere dette gennem forskellige indikationsmønstre. 
+
+\textbf{Sensor:} 
+Flex trackeren registrer den fysiske aktivitet ved anvendelse et MEMS 3-akses accelerometer. Ud fra algoritmer analyseres bevægelses mønstre hvor
+
+
+\textbf{Motorer:}
+Flex trackeren er yderligere udstyret med en vibrationsmotor, der aktiverer 
+
+
+\textbf{Batteri:} 
+Fitbit flex har et genopladeligt batteri der lades ved brug af det medfølgende kabel. Dette ses af \autoref{fig:fitbitflexindhold}. Hertil tilsluttes kablet en computer og opladningen påbegynder. 
+Levetiden på batteriet rækker op til 5 timer, dog kan mindre forventes ved omstændigt brug. 
+
+
+\subsubsection{Software}
+\textbf{Brugerflade:} % Hvordan formidles denne data til bruger og til læge? ? ? ? ? ? ? ? ? ?
+Applikationen  
+
+Når et mål for fysisk aktivitet nås blinker de fem LED'er og armbåndet vibrerer. 
+
+Som standard vurderer applikationen brugerens skridt længde, ud fra alder og højde, dog har brugeren mulighed for at tilpasse skridt længden under indstillinger.  
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\textwidth]{figures/brugerfladeoversigt}
+	\caption{Oversigt af fysisk aktivitet der vises idet applikationen åbnes. Her vises antal skridt taget, afstand rejst, kalorier forbrændt med mere.}
+	\label{fig:brugerfladeoversigt}
+\end{figure}
+
+
+Såfremt brugeren klikker på 'steps', vises en mere detaljeret oversigt over skridt taget. Dette formidles både grafisk og i form af en tabel
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\textwidth]{figures/brugerfladesteps}
+	\caption{Til venstre ses den grafiske oversigt over antal skridt taget og højre figur viser skridt taget i en tabel.}
+	\label{fig:brugerfladesteps}
+\end{figure}
+
+
+ 
+
+%	\end{itemize}
+%	\item Hvor udbredt er teknologien? (Studier med noget statistik hertil.)
+Producenten Fitbit 			
+			
+			Statistik op aktivitetsarmbånd på verdensplan 
+%	\item Aktivitetsarmbånd
+%	\begin{itemize}
+%		\item Hvilke sensor bliver brugt til at opsamle data
+
+%		\item Et billede hertil!
+%	\end{itemize}
+%	\item Hvordan monteres/påføres teknologien 
+%	\item Hvordan kalibreres teknologien til den enkelte person?
+%	\begin{itemize}
+%		\item Skal der udføres nogle test for at vide f.eks. hvilepulsen hos patienten? i så fald hvordan gøres dette?
+%	\end{itemize}
+%	\item Levetid for teknologien (Evt. Batterilevetid/Totale levetid)
+%	\item Hvordan lagres og videregives informationen til en læge?
+\end{itemize}
