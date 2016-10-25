@@ -9,4 +9,5 @@
 \contentsline {subsubsection}{Patient}{4}{section*.4}
 \contentsline {subsubsection}{Organisation}{4}{section*.5}
 \contentsline {subsubsection}{\IeC {\O }konomi}{4}{section*.6}
-\contentsline {chapter}{Litteratur}{5}{section*.8}
+\contentsline {section}{\numberline {1.4}Tidsplan}{4}{section.1.4}
+\contentsline {chapter}{Litteratur}{6}{section*.9}
