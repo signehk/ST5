@@ -1,11 +1,18 @@
+
 \section{Teknologibeskrivelse}
-%\begin{itemize}
-%	\item Hvad består teknologien af?
-%	\begin{itemize}
-%		\item Hvilke dele består den af? (Hardware og software)
+Aktivitetsarmbånd bliver i stigende grad mere udbredt. Ifølge IDC er der sket en stigning i salget af aktivitetsarmbånd fra 11,8 millioner enheder i første kvartal af 2015 til 19,7 millioner i første kvartal af 2016 \citep{IDC2016}.
+
+Det har ikke været muligt at finde statistisk data vedrørende udbredelsen af fitbit flex armbåndet. Det ses dog at Fitbit udgør stor andel af markedet for aktivitetsarmbånd, og at der fra første kvartal i 2015 til første kvartal i 2016 er sket en stigning i salget på 1 million enheder \citep{IDC2016}.  
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.35\textwidth]{figures/fitbitflex}
+	\caption{Fitbit flex armbånd \citep{fitbitflex}.}
+	\label{fig:fitbitflexarmbånd}
+\end{figure}
+
 
 Overordnet består et Fitbit Flex aktivitetsarmbånd af en flex tracker, oplader kabel, trådløs synkroniserings dongle og armbånd til flex tracker \citep{fitbitflex}. Disse kan ligeledes ses af \autoref{fig:fitbitflexindhold}. 
-\end{enumerate}
 
 \begin{figure}[H]
 	\centering
@@ -30,14 +37,13 @@ Yderligere lagres summeringer af daglig aktivitet i op til 30 dage.
 Ved jævnlig synkronisering er det muligt for brugeren at bevare detaljeret data, da informationen tilknyttes brugerkontoen. 
 Fitbit anbefaler én daglig synkronisering, dog er det ikke en nødvendighed \citep{fitbitflex}. 
 
-Armbåndet er vandafvisende.
+Armbåndet er vandafvisende. \textbf{KOMMER UD AF INGENTING}
 
-\textbf{SLEEP MODE}
 
 % Hvordan udregnes de reelle trackingsværdier, kalorier, afstand mm. 
 
 \subsection{Hardware}
-Fitbit flex trackeren har forskellige hardware elementer, hvorfra trackeren signalere, og detektere fysisk aktivitet. Hardwaren i trackeren udgøres af et 5 LED display, et 3-akses accelerometer og en vibrationsmotor.
+Fitbit flex trackeren har forskellige hardware elementer, hvorfra trackeren signalere, og detektere fysisk aktivitet. Hardwaren i trackeren udgøres af et display, sensor, motorer og batteri.
  
 \textbf{Display:} 
 Flex trackeren er udstyret med fem LED'er, der ved forskellige operationstilstande signalerer til brugeren. 
@@ -58,17 +64,13 @@ Levetiden på batteriet er op til 5 dage, dog kan mindre forventes ved omstændi
 
 
 \subsection{Software}
-\textbf{Brugerflade:} % Hvordan formidles denne data til bruger og til læge? ? ? ? ? ? ? ? ? ?
-Applikationen  
-
-\subsubsection{Kalibrering}
-Som standard vurderer applikationen brugerens skridtlængde, ud fra de angivne oplysninger ved oprettelsen af brugerkontoen. Brugeren har dog mulighed for at kalibrerer denne værdi, i tilfælde af at brugeren opdager uoverensstemmelse mellem registrerede værdier og reelle værdier. Brugeren kan under indstillinger i applikationen ændre den pre-defineret skridtlængde, til en mere passende. Fitbit oplyser på deres support-hjemmeside guidelines for hvordan brugeren selv udregner værdier til en mere passende skridtlængde.   
+\textbf{MANGLER INDLEDNING}
 
 Alt efter brugerens engagement, kan der også udfyldes informationer omkring indtaget kost ved brug af applikationen. Brugeren kan ud fra dette få et estimat af hvor mange kalorier der indtages, hvortil dette kan sammenlignes med antal kalorier forbrændt. Anvendelsen af denne kost-log er dog ikke en nødvendighed for anvendelsen af armbåndet eller applikationen, dog kunne dette give en praktiserende læge indblik i om patienten overholder anbefalingerne for hypertensive patienter, både i forhold til kostvaner, samt fysisk aktivitet.  
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.6\textwidth]{figures/brugerfladeoversigt}
+	\includegraphics[width=0.45\textwidth]{figures/burgerfladeoversigt}
 	\caption{Oversigt af fysisk aktivitet, der vises idet applikationen åbnes. Her vises antal skridt taget, afstand rejst, kalorier forbrændt med mere.}
 	\label{fig:brugerfladeoversigt}
 \end{figure}
@@ -84,7 +86,7 @@ En detaljeret oversigt over ydet aktivitet kan ses under den overordnet oversigt
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.6\textwidth]{figures/brugerfladesteps}
+	\includegraphics[width=0.45\textwidth]{figures/brugerfladesteps}
 	\caption{Til venstre ses den grafiske oversigt over antal skridt taget, og højre figur viser skridt taget i en tabel.}
 	\label{fig:brugerfladesteps}
 \end{figure}
@@ -95,11 +97,22 @@ Under grafen ses en oversigt over antal skridt taget for de forhenværende dage,
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.6\textwidth]{figures/specifiksteps}
+	\includegraphics[width=0.45\textwidth]{figures/specifiksteps}
 	\caption{Til venstre ses den grafiske oversigt over antal skridt taget, og højre figur viser skridt taget i en tabel.}
 	\label{fig:specifiksteps}
 \end{figure}
 
+
+\subsection{Brugertilpasning}
+Der er forskellige muligheder for at tilpasse armbåndet optimalt til den givne bruger. Heriblandt er der mulighed og at udskifte armbåndet til andre længder, og at tilpasse skridtlængden til den enkelte bruger. 
+
+\subsubsection{Forskellige størrelser armbånd}
+For brugeren er der mulighed for at vælge mellem to forskellige længder af armbånd. Dette tillader muligheden for bedre tilpasning omkring håndleddet. Armbåndene kan ligeledes fås i forskellige farver. % Swag 
+
+\subsubsection{Kalibrering}
+Som standard vurderer applikationen brugerens skridtlængde, ud fra de angivne oplysninger ved oprettelsen af brugerkontoen. Brugeren har dog mulighed for at kalibrerer denne værdi, i tilfælde af at brugeren opdager uoverensstemmelse mellem registrerede værdier og reelle værdier. Brugeren kan under indstillinger i applikationen ændre den pre-defineret skridtlængde, til en mere passende. Fitbit oplyser på deres support-hjemmeside guidelines for hvordan brugeren selv udregner værdier til en mere passende skridtlængde.   
+
+\begin{comment}
 %	\end{itemize}
 %	\item Hvor udbredt er teknologien? (Studier med noget statistik hertil.)
 Producenten Fitbit 			
@@ -117,4 +130,5 @@ Producenten Fitbit
 %	\end{itemize}
 %	\item Levetid for teknologien (Evt. Batterilevetid/Totale levetid)
 %	\item Hvordan lagres og videregives informationen til en læge?
-\end{itemize}
+%\end{itemize}
+\end{comment}
