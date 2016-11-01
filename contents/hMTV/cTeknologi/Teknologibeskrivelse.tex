@@ -21,7 +21,8 @@ Synkronisering mellem flex tracker og computer kræver dog anvendelse af den tr�
 Forudsætninger for, at data kan synkroniseres er, at en kompatibel enhed har den korrekte applikation installeret, hvor synkroniseringen ellers sker automatisk idet applikationen åbnes.  
 Yderligere skal der oprettes en brugerkonto på www.fitbit.com, hvor brugeren oplyser personlig info: køn, alder, højde og vægt. Dette er nødvendigt i forhold til optimering af dataopsamling og estimering af forbrændte kalorier.  
 Gennem applikationen visualiseres den registrerede aktivitet, hvor brugeren har mulighed for at se data fra starttidspunktet for anvendelsen af armbåndet. Data kan også observeres via  Fitbits hjemmeside, hvor det er muligt at logge ind via brugerkontoen. 
-Til den daglige aktivitet har brugeren mulighed for at sætte bestemte mål, hvortil det angives, hvor langt brugeren er fra at nå det givne fysiske mål, ved hjælp af de fem LED'er på armbåndet, i løbet af dagen. Denne funktion aktiveres når brugere trykker 2 gange på armbåndet. % (HVOR MANGE GANGE PÅMINEDS PATIENTEN DETTE??).
+Til den daglige aktivitet har brugeren mulighed for at sætte bestemte mål, hvortil det angives, hvor langt brugeren er fra at nå det givne fysiske mål, ved hjælp af de fem LED'er på armbåndet, i løbet af dagen. Denne funktion aktiveres når brugere trykker 2 gange på armbåndet. 
+Når et af brugerens mål gennemføres, visualiseres dette ved at de 5 LED'er blinker og at armbåndet vibrerer. 
 Fitbit Flex armbåndet er ikke i stand til at visualisere batteriniveauet for armbåndet, dette kan dog ses ved brug af applikationen. 
 Hukommelsen i flex trackeren tillader detaljeret data at blive lagret i perioder op til 7 dage og består af minut til minut målinger.  
 Yderligere lagres summeringer af daglig aktivitet i op til 30 dage. 
@@ -36,34 +37,34 @@ Armbåndet er vandafvisende (ned til 10 meter)
 % Hvordan udregnes de reelle trackingsværdier, kalorier, afstand mm. 
 
 \subsection{Hardware (for flex trackeren)}
-(MÅSKE STARTE AFSNITTET MED DEN HER BESKRIVELSE AF HARDWAREN? SÅDAN MAN FØRST SKRIVER HVAD DER ER/BESTÅR AF OG DEREFTER HVAD DET KAN :) )
+Flex trackeren har forskellige hardware elementer, hvorfra trackeren signalere, og detektere fysisk aktivitet. Hardwaren i trackeren består af, et 5 LED display, 3-akses accelerometer og en vibrationsmotor.
+ 
 \textbf{Display:} 
 Flex trackeren er udstyret med fem LED'er, der ved forskellige operationstilstande signalerer til brugeren. 
-LED'erne kan for eksempel fungere som indikator for progressionen i forhold til det brugerdefinerede fysiske mål for dagen. Hertil vil hver LED repræsentere en procentvis progressionen i intervaller af $20 \%$. Eksempelvis hvis brugeren har opfyldt $73 \%$ af det fysisk mål, vil de første tre LED'er lyse og den fjerde vil blinke. Dette indikerer, at brugeren har nået $60 \%$ af målet, og at brugeren nu befinder sig et sted mellem $60 \%$ og $80 \%$. 
+LED'erne fungerer for eksempel, som indikator for progressionen i forhold til det brugerdefinerede fysiske mål for dagen. Hertil vil hver LED repræsentere en procentvis progressionen i intervaller af $20 \%$. Eksempelvis hvis brugeren har opfyldt $73 \%$ af det fysisk mål, vil de første tre LED'er lyse og den fjerde vil blinke. Dette indikerer, at brugeren har nået $60 \%$ af målet, og at brugeren nu befinder sig mellem $60 \%$ og $80 \%$. 
 Det samme gør sig gældende når flex trackeren sættes til opladning. Her indikerer LED'erne, hvor langt armbåndet er fra fuld opladning, som signaleres ved at alle fem LED'er lyser. 
-I tilfælde af synkroniseringsfejl vil dette også fremgå af LED'erne. Her vil armbåndet lyse med et mønster, skiftevis mellem at have alle eller ingen LED'er tændt. 
-Ved manuel aktivering og de-aktivering af sleep mode, vil LED'erne indikere dette gennem forskellige indikationsmønstre. (SKAL VI BESKRIVE DISSE INDIKATIONSMØNSTRE?) DET SYNES JEG FOR VED IKKE HVOR RELEVANT DET ER AT JEG PENSLER DET HELE UD. 
+I tilfælde af synkroniseringsfejl vil dette også fremgå af LED'erne. Her vil armbåndet lyse med et mønster, skiftevis mellem at have ingen eller alle LED'er tændt. 
+Ved manuel aktivering og de-aktivering af sleep mode, vil LED'erne indikere dette gennem forskellige indikationsmønstre.
 
-\textbf{SensorE:} 
-Flex trackeren registrer den fysiske aktivitet ved anvendelse af et MEMS 3-akses accelerometer, hvilket er den eneste sensor, som sidder i armbåndet. Ud fra algoritmer analyseres bevægelses mønstre hvor...
-
+\textbf{Sensor:} 
+Flex trackeren registrer den fysiske aktivitet ved anvendelse af et MEMS 3-akses accelerometer, hvilket er den eneste sensor, som sidder i armbåndet. Ud fra algoritmer analyseres bevægelsesmønstre, hvorved der kan oplyses hvor mange skridt der er taget, afstand mm. 
 
 \textbf{Motorer:}
-Flex trackeren er yderligere udstyret med en vibrationsmotor, der aktiveres... 
-
-
+Flex trackeren er yderligere udstyret med en vibrationsmotor, der aktiveres under forskellige funktioner i armbåndet anvendes. Der fungerer i sammenspil med displayet, som et kommunikationsredskab for brugeren, vibrerer ved anvendelse af alarm funktion og ved aktivering eller de-aktivering af sleep mode. 
+ 
 \textbf{Batteri:} 
 Fitbit Flex har et genopladeligt batteri, der lades ved brug af det medfølgende kabel. Dette ses af \autoref{fig:fitbitflexindhold}. Kablet tilsluttes en computer og opladningen begynder, hvis computeren er tændt. 
 Levetiden på batteriet rækker op til 5 dage, dog kan mindre forventes ved omstændigt brug.
 
 
-\subsubsection{Software}
+\subsection{Software}
 \textbf{Brugerflade:} % Hvordan formidles denne data til bruger og til læge? ? ? ? ? ? ? ? ? ?
 Applikationen  
 
-Når et mål for fysisk aktivitet opnåes blinker de fem LED'er og armbåndet vibrerer. 
+\subsubsection{Kalibrering}
+Som standard vurderer applikationen brugerens skridtlængde, ud fra de angivet oplysninger ved oprettelsen af brugerkontoen. Brugeren har dog mulighed til at kalibrerer denne værdi, i tilfælde af at brugeren opdager uoverensstemmelse mellem registrerede værdier og reelle værdier. Brugeren kan under indstillinger i applikationen ændre den pre-defineret skridtlængde, til en mere passende. Fitbit oplyser på deres support-hjemmeside guidelines for hvordan brugeren selv udregner værdier til en mere passende skridtlængde.   
 
-Som standard vurderer applikationen brugerens skridt længde, ud fra alder og højde, dog har brugeren mulighed for at tilpasse skridt længden under indstillinger.  
+Alt efter brugerens engagement, kan der også udfyldes informationer omkring indtaget kost. Brugeren kan ud fra dette få et estimat af hvor mange kalorier der indtages hvortil dette kan sammenlignes med antal kalorier forbrændt. Anvendelsen af denne kost-log er dog ikke en nødvendighed for anvendelsen af armbånd eller applikation, dog kunne dette give en praktiserende læge indblik i om patienten overholder anbefalingerne for hypertensive patienter.  
 
 \begin{figure}[H]
 	\centering
@@ -72,8 +73,14 @@ Som standard vurderer applikationen brugerens skridt længde, ud fra alder og h�
 	\label{fig:brugerfladeoversigt}
 \end{figure}
 
+Af \autoref{fig:brugerfladeoversigt} ses oversigt den registrerede aktivitet der er målt gennem armbåndet. Her ses skridt taget, afstand rejst og kalorier forbrændt. Af oversigten ses også hvor langt brugeren er fra at opfylde de forskellige aktivitetsmål, og er repræsenteret af den blå cirkel omkring de forskellige angivelser. 
+Af bunden ses fire forskellige oversigter, hvor der fra venstre mod højre ses dashboard, udfordringer, tilføjelser, fællesskab og brugerkonto. \textbf{Dashboardet} er den overordnede oversigt, som oplyser det førnævnte (ydet aktivitet). 
+\textbf{Udfordringer} viser en oversigt over tilvalgte aktivitetsudfordringer, hvor brugeren har mulighed for at opstille udfordringer med venner samt andre brugere af applikationen. 
+\textbf{Tilføjelser} tillader ændringer af kost-loggen, eller opstart af ny aktivitetsmåling. 
+\textbf{Fællesskab} giver brugeren et overblik og venner der er tilføjet til applikationen. 
+\textbf{Brugerkonto} viser overblik over hvilken bruger der er logget ind, og hvilken enhed er der synkroniseret med applikationen. Yderligere kan der fortages ændringer af profil og mål for daglig fysisk aktivitet. 
 
-Såfremt brugeren klikker på 'steps', vises en mere detaljeret oversigt over skridt taget. Dette formidles både grafisk og i form af en tabel.
+En detaljeret oversigt over ydet aktivitet kan ses under den overordnet oversigt, ved at tykke på de givne målinger. Ved at trykke på skridt ses eksemplet der fremgår af \autoref{fig:brugerfladesteps}.  
 
 \begin{figure}[H]
 	\centering
@@ -82,18 +89,25 @@ Såfremt brugeren klikker på 'steps', vises en mere detaljeret oversigt over sk
 	\label{fig:brugerfladesteps}
 \end{figure}
 
+Af \autoref{fig:brugerfladesteps} ses der foroven en graf over skridt taget inden for den sidste uge. Af grafen ses en hvid tværgående linje, der repræsenterer målet for skridt. Hertil ses at dage hvor målet er blevet opfyldt markeres med en stjerne.  
 
- 
+Under grafen ses en oversigt over antal skridt taget for de forhenværende dage, rækkende tilbage til den første anvendelsesdato. Heraf ses ligeledes at dagene hvor målet nås, er indikeret med en stjerne. Ved at trykke på den give dag eller en af de forhenværende dage, kan der ses en mere detaljeret oversigt skridt taget i løbet af dagen. Dette ses af \autoref{fig:specifiksteps}, hvor der er muligt at se hvilke tider at dagen brugeren er mest aktiv.  
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\textwidth]{figures/specifiksteps}
+	\caption{Til venstre ses den grafiske oversigt over antal skridt taget, og højre figur viser skridt taget i en tabel.}
+	\label{fig:specifiksteps}
+\end{figure}
 
 %	\end{itemize}
 %	\item Hvor udbredt er teknologien? (Studier med noget statistik hertil.)
 Producenten Fitbit 			
 			
-			Statistik op aktivitetsarmbånd på verdensplan 
+ Statistik op aktivitetsarmbånd på verdensplan 
 %	\item Aktivitetsarmbånd
 %	\begin{itemize}
 %		\item Hvilke sensor bliver brugt til at opsamle data
-
 %		\item Et billede hertil!
 %	\end{itemize}
 %	\item Hvordan monteres/påføres teknologien 
