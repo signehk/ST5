@@ -84,8 +84,8 @@
 \contentsline {section}{\numberline {7.2}Konklusion}{32}{section.7.2}
 \contentsline {subsection}{\numberline {7.2.1}Anbefalinger}{32}{subsection.7.2.1}
 \contentsline {chapter}{Litteratur}{33}{section*.40}
-\contentsline {appendix}{\chapternumberline {A}S\IeC {\o }geprotokol}{37}{chapter.A}
-\contentsline {section}{\numberline {A.1}Teknologi}{37}{section.A.1}
-\contentsline {section}{\numberline {A.2}Patient}{37}{section.A.2}
-\contentsline {section}{\numberline {A.3}Organisation}{37}{section.A.3}
-\contentsline {section}{\numberline {A.4}\IeC {\O }konomi}{37}{section.A.4}
+\contentsline {appendix}{\chapternumberline {A}S\IeC {\o }geprotokol}{38}{chapter.A}
+\contentsline {section}{\numberline {A.1}Teknologi}{38}{section.A.1}
+\contentsline {section}{\numberline {A.2}Patient}{38}{section.A.2}
+\contentsline {section}{\numberline {A.3}Organisation}{38}{section.A.3}
+\contentsline {section}{\numberline {A.4}\IeC {\O }konomi}{38}{section.A.4}
