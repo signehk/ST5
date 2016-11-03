@@ -1,0 +1,87 @@
+\changetocdepth {2}
+\select@language {danish}
+\contentsline {chapter}{Forord}{iii}{chapter*.2}
+\contentsline {section}{L\IeC {\ae }sevejledning}{iii}{section*.3}
+\contentsline {subsection}{Kildeangivelse}{iii}{section*.4}
+\contentsline {section}{Metode}{iii}{section*.5}
+\contentsline {subsection}{S\IeC {\o }geprotokol}{iv}{section*.7}
+\contentsline {section}{Ordliste}{v}{section*.8}
+\contentsline {chapter}{\chapternumberline {1}Indledning}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Initierende problem}{1}{section.1.1}
+\contentsline {chapter}{\chapternumberline {2}Problemanalyse}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Fysisk aktivitet}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Effekter af fysisk aktivitet}{2}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Fysisk inaktivitet}{3}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}\IeC {\r A}rsager til fysisk inaktivitet}{3}{subsection.2.2.1}
+\contentsline {subsubsection}{Teknologiske faktorer}{4}{section*.10}
+\contentsline {subsubsection}{Kropslige faktorer}{4}{section*.11}
+\contentsline {subsubsection}{\IeC {\O }konomiske faktorer}{4}{section*.12}
+\contentsline {subsection}{\numberline {2.2.2}Fysiske f\IeC {\o }lger af fysisk inaktivitet}{4}{subsection.2.2.2}
+\contentsline {subsubsection}{Kredsl\IeC {\o }b}{4}{section*.13}
+\contentsline {subsubsection}{Muskelv\IeC {\ae }v}{5}{section*.14}
+\contentsline {subsubsection}{Knoglev\IeC {\ae }v}{5}{section*.15}
+\contentsline {subsubsection}{Stofskifte}{5}{section*.16}
+\contentsline {subsection}{\numberline {2.2.3}Psykiske f\IeC {\o }lger af fysisk inaktivitet}{5}{subsection.2.2.3}
+\contentsline {subsubsection}{Depression samt f\IeC {\o }lelsesm\IeC {\ae }ssig trivsel}{6}{section*.17}
+\contentsline {section}{\numberline {2.3}Sygdomsafgr\IeC {\ae }nsning}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Hypertension}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}Nuv\IeC {\ae }rende metoder til aktivitetsm\IeC {\r a}ling}{8}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Subjektive m\IeC {\r a}lemetoder}{9}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Objektive m\IeC {\r a}lemetoder}{9}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Alternative metoder til aktivitetsm\IeC {\r a}ling}{9}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Dobbeltm\IeC {\ae }rket vand}{10}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Pulsm\IeC {\r a}ler}{10}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Aktivitetsarmb\IeC {\r a}nd}{10}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Sammenligning/sammenfatning}{11}{subsection.2.6.4}
+\contentsline {subsection}{\numberline {2.6.5}Teknologiafgr\IeC {\ae }nsning}{11}{subsection.2.6.5}
+\contentsline {subsubsection}{Krav til funktionalitet}{11}{section*.20}
+\contentsline {subsubsection}{Valg af aktivitetsarmb\IeC {\r a}nd}{12}{section*.21}
+\contentsline {section}{\numberline {2.7}Problemformulering}{13}{section.2.7}
+\contentsline {chapter}{\chapternumberline {3}Teknologi}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Metode}{14}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}MTV-sp\IeC {\o }rgsm\IeC {\r a}l}{14}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Teknologibeskrivelse}{14}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Hardware}{16}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Software}{16}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Brugertilpasning}{19}{subsection.3.2.3}
+\contentsline {subsubsection}{Forskellige st\IeC {\o }rrelser armb\IeC {\r a}nd}{19}{section*.27}
+\contentsline {subsubsection}{Kalibrering}{19}{section*.28}
+\contentsline {section}{\numberline {3.3}Delkonklusion}{20}{section.3.3}
+\contentsline {chapter}{\chapternumberline {4}Patienten}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Metode}{21}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}MTV-sp\IeC {\o }rgsm\IeC {\r a}l}{21}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Patientkriterier for tildeling af aktivitetsarmb\IeC {\r a}nd}{22}{section.4.2}
+\contentsline {section}{\numberline {4.3}Patientens sociale og individuelle forhold i dagligdagen}{22}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Sociale forhold}{22}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Individuelle forhold}{23}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Delkonklusion}{23}{section.4.4}
+\contentsline {chapter}{\chapternumberline {5}Organisation}{24}{chapter.5}
+\contentsline {section}{\numberline {5.1}Metode}{24}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}MTV-sp\IeC {\o }rgsm\IeC {\r a}l}{24}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Patientforl\IeC {\o }b med hypertension}{25}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Diagnose og udredning af hypertension}{25}{subsection.5.2.1}
+\contentsline {subsubsection}{Samspil mellem prim\IeC {\ae }r og sekund\IeC {\ae }r sektor}{26}{section*.31}
+\contentsline {subsection}{\numberline {5.2.2}Behandling af hypertension}{26}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Aktivitetsarmb\IeC {\r a}nd i den nuv\IeC {\ae }rende organisation}{27}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Efteruddannelse af personale som f\IeC {\o }lge af implementering af aktivitetsarmb\IeC {\r a}nd}{28}{subsection.5.2.4}
+\contentsline {subsubsection}{Analysering af data fra aktivitetsarmb\IeC {\r a}nd}{29}{section*.32}
+\contentsline {subsection}{\numberline {5.2.5}Indk\IeC {\o }b af udstyr}{29}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Kontakt og information}{29}{subsection.5.2.6}
+\contentsline {subsubsection}{Mellem praktiserende afdeling/l\IeC {\ae }ge og producent}{29}{section*.33}
+\contentsline {subsubsection}{Mellem patient/borger og l\IeC {\ae }ge}{30}{section*.34}
+\contentsline {section}{\numberline {5.3}Delkonklusion}{30}{section.5.3}
+\contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{31}{chapter.6}
+\contentsline {section}{\numberline {6.1}Metode}{31}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}MTV-sp\IeC {\o }rgsm\IeC {\r a}l}{31}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}Besvarelse}{31}{section.6.2}
+\contentsline {section}{\numberline {6.3}Delkonklusion}{31}{section.6.3}
+\contentsline {chapter}{\chapternumberline {7}Syntese}{32}{chapter.7}
+\contentsline {section}{\numberline {7.1}Diskussion}{32}{section.7.1}
+\contentsline {section}{\numberline {7.2}Konklusion}{32}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Anbefalinger}{32}{subsection.7.2.1}
+\contentsline {chapter}{Litteratur}{33}{section*.36}
+\contentsline {appendix}{\chapternumberline {A}S\IeC {\o }geprotokol}{37}{chapter.A}
+\contentsline {section}{\numberline {A.1}Teknologi}{37}{section.A.1}
+\contentsline {section}{\numberline {A.2}Patient}{37}{section.A.2}
+\contentsline {section}{\numberline {A.3}Organisation}{37}{section.A.3}
+\contentsline {section}{\numberline {A.4}\IeC {\O }konomi}{37}{section.A.4}
