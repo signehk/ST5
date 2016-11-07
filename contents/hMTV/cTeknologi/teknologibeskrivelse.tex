@@ -1,9 +1,9 @@
 
 \section{Teknologibeskrivelse} \label{sec:teknologibeskrivelse}
-Aktivitetsarmbånd bliver i stigende grad mere udbredt. Ifølge IDC er der sket en stigning i salget af aktivitetsarmbånd fra 11,8 millioner enheder i første kvartal af 2015 til 19,7 millioner i første kvartal af 2016 \citep{IDC2016}.
+Aktivitetsarmbånd bliver i stigende grad mere udbredt. Ifølge International Data Corporation er der sket en stigning i salget af aktivitetsarmbånd fra 11,8 millioner enheder i første kvartal af 2015 til 19,7 millioner i første kvartal af 2016 \citep{IDC2016}.
 
-Det har ikke været muligt at finde statistisk data vedrørende udbredelsen af Fitbit Flex armbåndet, dog ses at Fitbit udgør stor andel af markedet for aktivitetsarmbånd, og at der fra første kvartal i 2015 til første kvartal i 2016 er sket en stigning i salget på 1 million enheder \citep{IDC2016}.  
-Fitit Felx armbåndet, som det vil båret af brugeren, ses af \autoref{fig:fitbitflexarmbånd}. 
+Det er fundet at Fitbit udgør stor andel af markedet for aktivitetsarmbånd, og at der fra første kvartal i 2015 til første kvartal i 2016 er sket en stigning i salget på 1 million enheder \citep{IDC2016}.  
+Fitit Felx armbåndet ses på \autoref{fig:fitbitflexarmbånd}. 
 
 \begin{figure}[H]
 	\centering
@@ -12,16 +12,18 @@ Fitit Felx armbåndet, som det vil båret af brugeren, ses af \autoref{fig:fitbi
 	\label{fig:fitbitflexarmbånd}
 \end{figure}
 
-Overordnet består et Fitbit Flex aktivitetsarmbånd af en flex tracker, oplader kabel, trådløs synkroniserings dongle og armbånd til flex tracker \citep{fitbitflex}. Disse kan ligeledes ses af \autoref{fig:fitbitflexindhold}. 
+\noindent
+Overordnet består et Fitbit Flex med tilbehør af en flex tracker, oplader kabel, trådløs synkroniserings dongle og armbånd til flex tracker \citep{fitbitflex}. Disse kan ligeledes ses af \autoref{fig:fitbitflexindhold}. 
 
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.6\textwidth]{figures/fitbitflexindhold}
-	\caption{Fra venstre mod højre ses flex tracker, oplader kabel, trådløs synkroniserings dongle, armbånd \citep{fitbitflex}.}
+	\caption{Fra venstre mod højre ses de forskellige dele af Fitbit Flex pakken, bestående af flex tracker, oplader kabel, trådløs synkroniserings dongle, armbånd \citep{fitbitflex}.}
 	\label{fig:fitbitflexindhold}
 \end{figure}
 
-Fitbit Flex er i stand til at måle antal skridt, forbrændte kalorier, afstand dækket, minutter brugeren er aktiv og længden samt kvalitet af søvn. 
+\noindent
+Fitbit Flex er i stand til at måle antal minutter brugeren er aktiv, længden samt kvalitet af søvn og antal skridt, hvorudfra den kan estimere forbrændte kalorier og afstand dækket,. 
 For at brugeren kan se den registrerede aktivitet, som er blevet opsamlet af armbåndet, skal dette synkroniseres med en kompatibel enhed, da armbåndet kun besidder et display bestående af fem LED'er. 
 
 Synkronisering foregår trådløst, ved brug af bluetooth low energy og kan foregå mellem forskellige enheder som for eksempel smartphone og computer. 
@@ -44,11 +46,11 @@ Fitbit anbefaler én daglig synkronisering, dog er det ikke en nødvendighed \ci
 Fitbit flex trackeren har forskellige hardware elementer, hvorfra trackeren signalere, og detektere fysisk aktivitet. Hardwaren i trackeren udgøres af et display, sensor, motorer og batteri.
  
 \subsubsection{Display} 
-Flex trackeren er udstyret med fem LED'er, der ved forskellige operationstilstande signalerer til brugeren. 
-LED'erne fungerer for eksempel, som indikator for progressionen i forhold til det brugerdefinerede fysiske mål for dagen. Hertil vil hver LED repræsentere en procentvis progressionen i intervaller af $20 \%$. Eksempelvis hvis brugeren har opfyldt $73 \%$ af det fysisk mål, vil de første tre LED'er lyse og den fjerde vil blinke. Dette indikerer, at brugeren har nået $60 \%$ af målet, og at brugeren nu befinder sig mellem $60 \%$ og $80 \%$. 
+Flex trackeren er udstyret med fem LED'er, der ved forskellige operationstilstande, såsom alarm, aktivitet eller søvntracking, signalerer til brugeren. 
+LED'erne fungerer for eksempel, som indikator for progressionen i forhold til det brugerdefinerede fysiske mål for dagen. Hertil vil hver LED repræsentere en procentvis progressionen i intervaller af $20 \%$. Ved $73 \%$ progression af det fysisk mål, vil de første tre LED'er lyse og den fjerde vil blinke. Dette indikerer, at brugeren har nået $60 \%$ af målet, og at brugeren nu befinder sig mellem $60 \%$ og $80 \%$. 
 Det samme gør sig gældende når flex trackeren sættes til opladning. Her indikerer LED'erne, hvor langt armbåndet er fra fuld opladning, som signaleres ved at alle fem LED'er lyser. 
-I tilfælde af synkroniseringsfejl vil dette også fremgå af LED'erne. Her vil armbåndet lyse med et mønster, skiftevis mellem at have ingen eller alle LED'er tændt. 
-Ved manuel aktivering og de-aktivering af sleep mode, vil LED'erne indikere dette gennem forskellige indikationsmønstre.
+%I tilfælde af synkroniseringsfejl vil dette også fremgå af LED'erne. Her vil armbåndet lyse med et mønster, skiftevis mellem at have ingen eller alle LED'er tændt. 
+%Ved manuel aktivering og de-aktivering af sleep mode, vil LED'erne indikere dette gennem forskellige indikationsmønstre.
 
 \subsubsection{Sensor} 
 Flex trackeren registrer den fysiske aktivitet ved anvendelse af et MEMS 3-akses accelerometer, hvilket er den eneste sensor, som er implementeret i armbåndet. Ud fra algoritmer analyseres bevægelsesmønstre, hvorved der kan oplyses hvor mange skridt der er foretaget under løb eller gang, den tilbagelagte afstand, med mere. 
@@ -58,23 +60,24 @@ Flex trackeren er yderligere udstyret med en vibrationsmotor, der aktiveres unde
  
 \subsubsection{Batteri} 
 Fitbit Flex indeholder et genopladeligt batteri, der lades ved brug af det medfølgende kabel. Dette ses af \autoref{fig:fitbitflexindhold}. Kablet tilsluttes en computer og opladningen begynder, hvis computeren er tændt. 
-Levetiden på batteriet er op til 5 dage, dog kan mindre forventes ved omstændigt brug.
+Levetiden på batteriet er op til 5 dage, afhængigt af hvor ofte armbåndet synkroniseres for at visualisere progressionen.
 
 
 \subsection{Software}
-Applikationen er brugerfladen hvorfor den synkroniserede data formidles til brugeren. Her oplyses skridt, forbrændte kalorier med mere. 
-Alt efter brugerens engagement, kan der også udfyldes informationer omkring indtaget kost ved brug af applikationen. Brugeren kan ud fra dette få et estimat af hvor mange kalorier der indtages, hvortil dette kan sammenlignes med antal kalorier forbrændt. Anvendelsen af denne kost-log er dog ikke en nødvendighed for anvendelsen af armbåndet eller applikationen, dog kunne dette give en praktiserende læge indblik i om patienten overholder anbefalingerne for hypertensive patienter, både i forhold til kostvaner, samt fysisk aktivitet.  
+Applikationen er brugerfladen hvorfra den synkroniserede data formidles til brugeren. Her oplyses skridt, forbrændte kalorier med mere. 
+Alt efter brugerens interesser, kan der også udfyldes informationer omkring indtaget kost ved brug af applikationen. Brugeren kan ud fra dette få et estimat af hvor mange kalorier der indtages, hvortil dette kan sammenlignes med antal kalorier forbrændt. Anvendelsen af denne kost-log er dog ikke en nødvendighed for anvendelsen af armbåndet eller applikationen, dog kunne dette give en praktiserende læge indblik i om patienten overholder anbefalingerne for hypertensive patienter, både i forhold til kostvaner, samt fysisk aktivitet. 
 
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.45\textwidth]{figures/burgerfladeoversigt}
-	\caption{Ooverordnet oversigt af fysisk aktivitet, der vises idet applikationen åbnes. Her vises antal skridt taget, afstand rejst, kalorier forbrændt med mere.}
+	\caption{Oversigt over fysisk aktivitet, der vises idet applikationen åbnes. Her ses antal skridt taget, afstand rejst, kalorier forbrændt med mere.}
 	\label{fig:brugerfladeoversigt}
 \end{figure}
 
+\noindent
 Af \autoref{fig:brugerfladeoversigt} ses oversigt over den registrerede aktivitet som er målt gennem armbåndet. Her ses skridt taget, afstand rejst og kalorier forbrændt. Af oversigten ses også hvor langt brugeren er fra at opfylde de forskellige aktivitetsmål, og er repræsenteret af den blå cirkel omkring de forskellige angivelser. 
 Af bunden ses fire forskellige oversigter, hvor der fra venstre mod højre ses 'Dashboard', 'Challenges', 'Friends' og 'Account'. Plus-tegnet i midten fungerer som en genvej til forskellige funktioner under de fire oversigte. 
-'Dashboard' er den overordnede oversigt, som oplyser det førnævnte (ydet aktivitet). 
+'Dashboard' er den overordnede oversigt, som oplyser det førnævnte.
 'Challenges' viser en oversigt over tilvalgte aktivitetsudfordringer, hvor brugeren har mulighed for at opstille udfordringer med venner samt andre brugere af applikationen. 
 'Friends' giver brugeren et overblik og venner der er tilføjet til applikationen. 
 'Account' viser et overblik over, hvilken bruger der er logget ind, og hvilken fitibt enhed der er tilsluttet applikationen. Yderligere kan der fortages ændringer af profil og mål for daglig fysisk aktivitet. 
@@ -83,30 +86,36 @@ En detaljeret oversigt over ydet aktivitet kan ses under den overordnede oversig
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.45\textwidth]{figures/brugerfladesteps}
-	\caption{Oversigt over skridt taget for forhenværende dage, som graf (øverst) og tabel (nederst).}
-	\label{fig:brugerfladesteps}
+	\begin{minipage}[t]{0.45\textwidth}
+		\label{fig:brugerfladesteps}
+	    \includegraphics[width=0.45\textwidth]{figures/brugerfladesteps}
+		\flushleft
+		\textit{Oversigt over skridt taget for forhenværende dage, som graf (øverst) og tabel (nederst).}
+	\end{minipage}
+	\hfill
+	\begin{minipage}[t]{0.45\textwidth}
+		\label{fig:specifiksteps}
+		\centering
+		\includegraphics[width=0.45\textwidth]{figures/specifiksteps}
+		\flushleft
+		\vspace{12pt}
+		\textit{Til venstre ses den grafiske oversigt over antal skridt taget, og højre figur viser skridt taget i en tabel.}
+	\end{minipage}
 \end{figure}
 
+\noindent
 Af \autoref{fig:brugerfladesteps} ses der foroven en graf over skridt taget inden for den sidste uge. Af grafen ses en hvid tværgående linje, der repræsenterer målet for antal skridt for dagen. Hertil ses at dage hvor målet er blevet opfyldt markeres med en stjerne.  
 
 Under grafen ses en oversigt over antal skridt taget for de forhenværende dage, rækkende tilbage til den første anvendelsesdato. Heraf ses ligeledes at dagene hvor målet nåes, er indikeret med en stjerne. 
 
-Ved at trykke på en den givne dag eller en af de forhenværende dage, kan der ses en mere detaljeret oversigt over skridt taget i løbet af den pågældende dag. Dette ses af \autoref{fig:specifiksteps}, hvor det er muligt at se på hvilke tider af dagen brugeren er mest aktiv.  
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.45\textwidth]{figures/specifiksteps}
-	\caption{Til venstre ses den grafiske oversigt over antal skridt taget, og højre figur viser skridt taget i en tabel.}
-	\label{fig:specifiksteps}
-\end{figure}
+Ved at trykke på den givne dag eller en af de forhenværende dage, kan der ses en mere detaljeret oversigt over skridt taget i løbet af den pågældende dag. Dette ses af \autoref{fig:specifiksteps}, hvor det er muligt at se på hvilke tider af dagen brugeren er mest aktiv.  
 
 
 \subsection{Brugertilpasning} \label{sec:brugertilpasning}
 Der er forskellige muligheder for at tilpasse armbåndet optimalt til den givne bruger. Heriblandt er der mulighed og at udskifte armbåndet til andre længder, og at tilpasse skridtlængden til den enkelte bruger. Foruden dette tilegner armbåndet sig og at bliver brugt under forskellige vejrforhold, da Fitbit Flex er vandafvisende. 
 
 \subsubsection{Forskellige størrelser armbånd}
-For brugeren er der mulighed for at vælge mellem to forskellige længder af armbånd. Dette tillader muligheden for bedre tilpasning omkring håndleddet. Armbåndene kan ligeledes fås i forskellige farver. % Swag 
+For brugeren er der mulighed for at vælge mellem to forskellige længder af armbånd. Dette tillader muligheden for bedre tilpasning omkring håndleddet. Armbåndene kan ligeledes fås i forskellige farver.
 
 \subsubsection{Kalibrering}
 Som standard vurderer applikationen brugerens skridtlængde, ud fra de angivne oplysninger ved oprettelsen af brugerkontoen. Brugeren har dog mulighed for at kalibrerer denne værdi, i tilfælde af at brugeren opdager uoverensstemmelse mellem registrerede værdier og reelle værdier. Brugeren kan under indstillinger i applikationen ændre den pre-defineret skridtlængde, til en mere passende. Fitbit oplyser på deres support-hjemmeside guidelines for hvordan brugeren selv udregner værdier til en mere passende skridtlængde.   
