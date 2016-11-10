@@ -2,12 +2,19 @@
 \input{settings/macros.tex}
 \raggedbottom % Soerger for at LaTeX ikke "straekker" teksten
 
-\usepackage{usebib}
-\bibinput{bibliography/bibliography} % <--- the same argument as in \bibliography
+%-------------DEF. ALIAS--------------------
+\defcitealias{hasse2012}{'Teknologiforståelse - på skoler og hospitaler'}
+\defcitealias{kaewkannate2016}{'A comparison of wearable fitness devices'} 
+\defcitealias{mercer2016}{'Acceptance of Commercially Available Wearable Activity Trackers Amog Adults Over 50 and With Chronic Illness: A Mixed-Methods Evaluation'}
+\defcitealias{rapp2016}{'Personal informatics for everyday life: How users without prior self-tracking experience engage with personal data'}
 
-\begin{document}
+\usepackage{usebib}
+\bibinput{bibliography/bibliography}
+
 
 %-------------Formaliteter-------------------
+\begin{document}
+
 \frontmatter	 
 \input{contents/xFormaliteter/frontpage.tex}
 \input{contents/xFormaliteter/titleSheet.tex}
