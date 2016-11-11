@@ -50,8 +50,9 @@
 \contentsline {subsection}{\numberline {3.2.3}Brugertilpasning}{18}{subsection.3.2.3}
 \contentsline {subsubsection}{Forskellige Fitbit Flex armb\IeC {\r a}nd}{19}{section*.28}
 \contentsline {subsubsection}{Kalibrering}{19}{section*.29}
-\contentsline {subsection}{\numberline {3.2.4}Fordele og begr\IeC {\ae }nsninger ved teknologien}{19}{subsection.3.2.4}
-\contentsline {section}{\numberline {3.3}Delkonklusion}{20}{section.3.3}
+\contentsline {section}{\numberline {3.3}Fordele og begr\IeC {\ae }nsninger}{19}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}N\IeC {\o }jagtighed af aktivitetsm\IeC {\r a}ling}{20}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}Delkonklusion}{20}{section.3.4}
 \contentsline {chapter}{\chapternumberline {4}Patienten}{21}{chapter.4}
 \contentsline {section}{\numberline {4.1}Metode}{21}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}MTV-sp\IeC {\o }rgsm\IeC {\r a}l}{21}{subsection.4.1.1}
@@ -62,40 +63,44 @@
 \contentsline {section}{\numberline {4.4}Patientens sociale og individuelle forhold i dagligdagen}{25}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Sociale forhold}{26}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Individuelle forhold}{26}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Delkonklusion}{26}{section.4.5}
-\contentsline {chapter}{\chapternumberline {5}Organisation}{27}{chapter.5}
-\contentsline {section}{\numberline {5.1}Metode}{27}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}MTV-sp\IeC {\o }rgsm\IeC {\r a}l}{27}{subsection.5.1.1}
-\contentsline {section}{\numberline {5.2}Patientforl\IeC {\o }b med hypertension}{28}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Diagnose og udredning af hypertension}{28}{subsection.5.2.1}
-\contentsline {subsubsection}{Samspil mellem prim\IeC {\ae }r og sekund\IeC {\ae }r sektor}{29}{section*.34}
-\contentsline {subsection}{\numberline {5.2.2}Behandling af hypertension}{29}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Aktivitetsarmb\IeC {\r a}nd i den nuv\IeC {\ae }rende organisation}{31}{subsection.5.2.3}
-\contentsline {section}{\numberline {5.3}Organisatoriske \IeC {\ae }ndringer}{31}{section.5.3}
-\contentsline {section}{\numberline {5.4}Efteruddannelse af personale}{32}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Analysering af data fra aktivitetsarmb\IeC {\r a}nd}{32}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Indk\IeC {\o }b af udstyr}{33}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Kontakt og information}{33}{subsection.5.4.3}
-\contentsline {subsubsection}{Mellem praktiserende afdeling/l\IeC {\ae }ge og producent}{33}{section*.36}
-\contentsline {subsubsection}{Mellem patient/borger og l\IeC {\ae }ge}{33}{section*.37}
-\contentsline {section}{\numberline {5.5}Delkonklusion}{33}{section.5.5}
-\contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{34}{chapter.6}
-\contentsline {section}{\numberline {6.1}Metode}{34}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}MTV-sp\IeC {\o }rgsm\IeC {\r a}l}{34}{subsection.6.1.1}
-\contentsline {section}{\numberline {6.2}Nuv\IeC {\ae }rende omkostninger i sundhedssektoren}{34}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Prim\IeC {\ae }r sektor}{34}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Sekund\IeC {\ae }r sektor}{35}{subsection.6.2.2}
-\contentsline {section}{\numberline {6.3}Omkostninger ved implementering af Fitbit Flex}{36}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Direkte omkostninger}{36}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Indirekte omkostninger}{37}{subsection.6.3.2}
-\contentsline {section}{\numberline {6.4}Delkonklusion}{38}{section.6.4}
-\contentsline {chapter}{\chapternumberline {7}Syntese}{39}{chapter.7}
-\contentsline {section}{\numberline {7.1}Diskussion}{39}{section.7.1}
-\contentsline {section}{\numberline {7.2}Konklusion}{39}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Anbefalinger}{39}{subsection.7.2.1}
-\contentsline {chapter}{Litteratur}{40}{section*.40}
-\contentsline {appendix}{\chapternumberline {A}S\IeC {\o }geprotokol}{45}{chapter.A}
-\contentsline {section}{\numberline {A.1}Teknologi}{45}{section.A.1}
-\contentsline {section}{\numberline {A.2}Patient}{45}{section.A.2}
-\contentsline {section}{\numberline {A.3}Organisation}{45}{section.A.3}
-\contentsline {section}{\numberline {A.4}\IeC {\O }konomi}{45}{section.A.4}
+\contentsline {section}{\numberline {4.5}Effekter af monitorering af aktivitetsniveau}{26}{section.4.5}
+\contentsline {section}{\numberline {4.6}Etiske problemstillinger}{27}{section.4.6}
+\contentsline {section}{\numberline {4.7}Delkonklusion}{27}{section.4.7}
+\contentsline {chapter}{\chapternumberline {5}Organisation}{28}{chapter.5}
+\contentsline {section}{\numberline {5.1}Metode}{28}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}MTV-sp\IeC {\o }rgsm\IeC {\r a}l}{28}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Patientforl\IeC {\o }b med hypertension}{29}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Diagnose og udredning af hypertension}{29}{subsection.5.2.1}
+\contentsline {subsubsection}{Samspil mellem prim\IeC {\ae }r og sekund\IeC {\ae }r sektor}{30}{section*.34}
+\contentsline {subsection}{\numberline {5.2.2}Behandling af hypertension}{30}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Aktivitetsarmb\IeC {\r a}nd i den nuv\IeC {\ae }rende organisation}{32}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Organisatoriske \IeC {\ae }ndringer}{32}{section.5.3}
+\contentsline {section}{\numberline {5.4}Efteruddannelse af personale}{33}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Analysering af data fra aktivitetsarmb\IeC {\r a}nd}{33}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Indk\IeC {\o }b af udstyr}{34}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Kontakt og information}{34}{subsection.5.4.3}
+\contentsline {subsubsection}{Mellem praktiserende afdeling/l\IeC {\ae }ge og producent}{34}{section*.36}
+\contentsline {subsubsection}{Mellem patient/borger og l\IeC {\ae }ge}{34}{section*.37}
+\contentsline {section}{\numberline {5.5}Delkonklusion}{34}{section.5.5}
+\contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{35}{chapter.6}
+\contentsline {section}{\numberline {6.1}Metode}{35}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}MTV-sp\IeC {\o }rgsm\IeC {\r a}l}{35}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}Nuv\IeC {\ae }rende omkostninger i sundhedssektoren}{35}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Prim\IeC {\ae }r sektor}{35}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Sekund\IeC {\ae }r sektor}{36}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Omkostninger ved implementering af Fitbit Flex}{37}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Direkte omkostninger}{37}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Indirekte omkostninger}{38}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Omkostninger i den prim\IeC {\ae }re sektor}{38}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Omkostninger i den sekund\IeC {\ae }re sektor}{39}{subsection.6.3.4}
+\contentsline {section}{\numberline {6.4}Delkonklusion}{39}{section.6.4}
+\contentsline {chapter}{\chapternumberline {7}Syntese}{40}{chapter.7}
+\contentsline {section}{\numberline {7.1}Diskussion}{40}{section.7.1}
+\contentsline {section}{\numberline {7.2}Konklusion}{40}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Anbefalinger}{40}{subsection.7.2.1}
+\contentsline {chapter}{Litteratur}{41}{section*.40}
+\contentsline {appendix}{\chapternumberline {A}S\IeC {\o }geprotokol}{46}{chapter.A}
+\contentsline {section}{\numberline {A.1}Teknologi}{46}{section.A.1}
+\contentsline {section}{\numberline {A.2}Patient}{46}{section.A.2}
+\contentsline {section}{\numberline {A.3}Organisation}{46}{section.A.3}
+\contentsline {section}{\numberline {A.4}\IeC {\O }konomi}{46}{section.A.4}
