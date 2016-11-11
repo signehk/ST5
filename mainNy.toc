@@ -61,10 +61,10 @@
 \contentsline {subsection}{\numberline {4.3.1}Brugerbed\IeC {\o }melse af Fitbit Flex}{23}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Anvendelse af aktivitetstracker i hverdagen}{24}{subsection.4.3.2}
 \contentsline {section}{\numberline {4.4}Patientens sociale og individuelle forhold i dagligdagen}{25}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Sociale forhold}{26}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.1}Sociale forhold}{25}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Individuelle forhold}{26}{subsection.4.4.2}
 \contentsline {section}{\numberline {4.5}Effekter af monitorering af aktivitetsniveau}{26}{section.4.5}
-\contentsline {section}{\numberline {4.6}Etiske problemstillinger}{27}{section.4.6}
+\contentsline {section}{\numberline {4.6}Etiske problemstillinger}{26}{section.4.6}
 \contentsline {section}{\numberline {4.7}Delkonklusion}{27}{section.4.7}
 \contentsline {chapter}{\chapternumberline {5}Organisation}{28}{chapter.5}
 \contentsline {section}{\numberline {5.1}Metode}{28}{section.5.1}
