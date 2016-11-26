@@ -70,7 +70,7 @@
 \contentsline {subsection}{\numberline {7.3.1}Sociale forhold}{36}{subsection.7.3.1}
 \contentsline {subsection}{\numberline {7.3.2}Individuelle forhold}{36}{subsection.7.3.2}
 \contentsline {section}{\numberline {7.4}Effekter af monitorering af aktivitetsniveau}{37}{section.7.4}
-\contentsline {section}{\numberline {7.5}Etiske problemstillinger}{37}{section.7.5}
+\contentsline {section}{\numberline {7.5}Etiske problemstillinger}{38}{section.7.5}
 \contentsline {subsection}{\numberline {7.5.1}Privatliv og persondata}{38}{subsection.7.5.1}
 \contentsline {subsection}{\numberline {7.5.2}Synlighed}{38}{subsection.7.5.2}
 \contentsline {subsection}{\numberline {7.5.3}Autonomi}{38}{subsection.7.5.3}
@@ -101,7 +101,7 @@
 \contentsline {subsection}{\numberline {9.2.1}Direkte omkostninger}{50}{subsection.9.2.1}
 \contentsline {subsection}{\numberline {9.2.2}Indirekte omkostninger}{51}{subsection.9.2.2}
 \contentsline {subsection}{\numberline {9.2.3}Omkostninger i sundhedssektoren}{51}{subsection.9.2.3}
-\contentsline {section}{\numberline {9.3}Delkonklusion}{51}{section.9.3}
+\contentsline {section}{\numberline {9.3}Delkonklusion}{52}{section.9.3}
 \contentsline {part}{\partnumberline {IV} Syntese}{53}{part.4}
 \contentsline {chapter}{\chapternumberline {10}Diskussion}{54}{chapter.10}
 \contentsline {chapter}{\chapternumberline {11}Konklusion}{55}{chapter.11}
