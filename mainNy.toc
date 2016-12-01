@@ -107,11 +107,11 @@
 \contentsline {part}{\partnumberline {IV} Syntese}{54}{part.4}
 \contentsline {chapter}{\chapternumberline {10}Diskussion}{55}{chapter.10}
 \contentsline {section}{\numberline {10.1}Metode}{55}{section.10.1}
-\contentsline {section}{\numberline {10.2}Teknologi}{55}{section.10.2}
+\contentsline {section}{\numberline {10.2}Teknologi}{56}{section.10.2}
 \contentsline {section}{\numberline {10.3}Patient}{56}{section.10.3}
 \contentsline {section}{\numberline {10.4}Organisation}{57}{section.10.4}
-\contentsline {section}{\numberline {10.5}\IeC {\O }konomi}{57}{section.10.5}
-\contentsline {section}{\numberline {10.6}Samlet diskussion}{58}{section.10.6}
-\contentsline {chapter}{\chapternumberline {11}Konklusion}{60}{chapter.11}
-\contentsline {chapter}{\chapternumberline {12}Anbefalinger}{61}{chapter.12}
-\contentsline {chapter}{Litteratur}{62}{section*.46}
+\contentsline {section}{\numberline {10.5}\IeC {\O }konomi}{58}{section.10.5}
+\contentsline {section}{\numberline {10.6}Samlet diskussion}{59}{section.10.6}
+\contentsline {chapter}{\chapternumberline {11}Konklusion}{61}{chapter.11}
+\contentsline {chapter}{\chapternumberline {12}Anbefalinger}{62}{chapter.12}
+\contentsline {chapter}{Litteratur}{63}{section*.46}
