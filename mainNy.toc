@@ -115,3 +115,5 @@
 \contentsline {chapter}{\chapternumberline {11}Konklusion}{61}{chapter.11}
 \contentsline {chapter}{\chapternumberline {12}Anbefalinger}{62}{chapter.12}
 \contentsline {chapter}{Litteratur}{63}{section*.47}
+\contentsline {part}{\partnumberline {V}Bilag}{69}{part.5}
+\contentsline {appendix}{\chapternumberline {A}Patientforl\IeC {\o }b}{70}{chapter.A}
