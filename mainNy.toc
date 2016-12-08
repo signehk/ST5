@@ -23,16 +23,16 @@
 \contentsline {subsection}{\numberline {2.4.1}P\IeC {\r a}virkende faktorer i relation til hypertension}{10}{subsection.2.4.1}
 \contentsline {section}{\numberline {2.5}Nuv\IeC {\ae }rende metoder til aktivitetsm\IeC {\r a}ling}{11}{section.2.5}
 \contentsline {subsection}{\numberline {2.5.1}Subjektive m\IeC {\r a}lemetoder}{11}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Objektive m\IeC {\r a}lemetoder}{11}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.2}Objektive m\IeC {\r a}lemetoder}{12}{subsection.2.5.2}
 \contentsline {section}{\numberline {2.6}Alternative metoder til aktivitetsm\IeC {\r a}ling}{12}{section.2.6}
 \contentsline {subsection}{\numberline {2.6.1}Dobbeltm\IeC {\ae }rket vand}{12}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Pulsm\IeC {\r a}ler}{12}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.2}Pulsm\IeC {\r a}ler}{13}{subsection.2.6.2}
 \contentsline {subsection}{\numberline {2.6.3}Aktivitetsarmb\IeC {\r a}nd}{13}{subsection.2.6.3}
 \contentsline {subsection}{\numberline {2.6.4}Sammenligning/sammenfatning}{13}{subsection.2.6.4}
-\contentsline {section}{\numberline {2.7}Teknologiafgr\IeC {\ae }nsning}{13}{section.2.7}
+\contentsline {section}{\numberline {2.7}Teknologiafgr\IeC {\ae }nsning}{14}{section.2.7}
 \contentsline {subsection}{\numberline {2.7.1}Krav til funktionalitet}{14}{subsection.2.7.1}
 \contentsline {subsection}{\numberline {2.7.2}Valg af aktivitetsarmb\IeC {\r a}nd}{14}{subsection.2.7.2}
-\contentsline {section}{\numberline {2.8}Problemformulering}{14}{section.2.8}
+\contentsline {section}{\numberline {2.8}Problemformulering}{15}{section.2.8}
 \contentsline {part}{\partnumberline {II} Metode}{16}{part.2}
 \contentsline {chapter}{\chapternumberline {3}Rapportens struktur}{17}{chapter.3}
 \contentsline {chapter}{\chapternumberline {4}MTV-analyse}{19}{chapter.4}
@@ -106,13 +106,15 @@
 \contentsline {section}{\numberline {9.3}Delkonklusion}{56}{section.9.3}
 \contentsline {part}{\partnumberline {IV} Syntese}{57}{part.4}
 \contentsline {chapter}{\chapternumberline {10}Diskussion}{58}{chapter.10}
-\contentsline {section}{\numberline {10.1}Metode}{58}{section.10.1}
-\contentsline {section}{\numberline {10.2}Teknologi}{59}{section.10.2}
-\contentsline {section}{\numberline {10.3}Patient}{59}{section.10.3}
-\contentsline {section}{\numberline {10.4}Organisation}{60}{section.10.4}
-\contentsline {section}{\numberline {10.5}\IeC {\O }konomi}{61}{section.10.5}
-\contentsline {section}{\numberline {10.6}Samlet diskussion}{62}{section.10.6}
+\contentsline {section}{\numberline {10.1}Opsummering}{58}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Problemstillingen}{58}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2}Resultater}{58}{subsection.10.1.2}
+\contentsline {section}{\numberline {10.2}Metode}{59}{section.10.2}
+\contentsline {section}{\numberline {10.3}Teknologi}{59}{section.10.3}
+\contentsline {section}{\numberline {10.4}Patient}{60}{section.10.4}
+\contentsline {section}{\numberline {10.5}Organisation}{61}{section.10.5}
+\contentsline {section}{\numberline {10.6}\IeC {\O }konomi}{62}{section.10.6}
+\contentsline {section}{\numberline {10.7}Samlet diskussion}{62}{section.10.7}
 \contentsline {chapter}{\chapternumberline {11}Konklusion}{64}{chapter.11}
 \contentsline {chapter}{\chapternumberline {12}Anbefalinger}{65}{chapter.12}
 \contentsline {chapter}{Litteratur}{66}{section*.48}
-\contentsline {part}{\partnumberline {V}Bilag}{72}{part.5}
