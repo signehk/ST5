@@ -85,35 +85,34 @@
 \contentsline {section}{\numberline {8.1}Patientforl\IeC {\o }b med hypertension}{42}{section.8.1}
 \contentsline {subsection}{\numberline {8.1.1}Diagnose og udredning af hypertension}{42}{subsection.8.1.1}
 \contentsline {subsubsection}{Samspil mellem prim\IeC {\ae }r og sekund\IeC {\ae }r sektor}{43}{section*.39}
-\contentsline {subsection}{\numberline {8.1.2}Behandling af hypertension}{43}{subsection.8.1.2}
-\contentsline {subsection}{\numberline {8.1.3}Aktivitetsarmb\IeC {\r a}nd i den nuv\IeC {\ae }rende organisation}{45}{subsection.8.1.3}
-\contentsline {section}{\numberline {8.2}Organisatoriske \IeC {\ae }ndringer}{45}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Efteruddannelse af personale}{46}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Analysering af data fra aktivitetsarmb\IeC {\r a}nd}{47}{subsection.8.2.2}
-\contentsline {subsection}{\numberline {8.2.3}Indk\IeC {\o }b af udstyr}{47}{subsection.8.2.3}
-\contentsline {subsection}{\numberline {8.2.4}Kontakt og information}{47}{subsection.8.2.4}
-\contentsline {subsubsection}{Mellem praktiserende afdeling/l\IeC {\ae }ge og producent}{48}{section*.41}
-\contentsline {subsubsection}{Mellem patient/borger og l\IeC {\ae }ge}{48}{section*.42}
-\contentsline {section}{\numberline {8.3}Delkonklusion}{48}{section.8.3}
-\contentsline {chapter}{\chapternumberline {9}\IeC {\O }konomi}{49}{chapter.9}
-\contentsline {section}{\numberline {9.1}Nuv\IeC {\ae }rende omkostninger i sundhedssektoren}{49}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}Prim\IeC {\ae }r sektor}{49}{subsection.9.1.1}
-\contentsline {subsection}{\numberline {9.1.2}Sekund\IeC {\ae }r sektor}{50}{subsection.9.1.2}
-\contentsline {section}{\numberline {9.2}Omkostninger ved implementering af Fitbit Flex}{51}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}Direkte omkostninger}{51}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {9.2.2}Indirekte omkostninger}{52}{subsection.9.2.2}
-\contentsline {subsection}{\numberline {9.2.3}Omkostninger i sundhedssektoren}{52}{subsection.9.2.3}
-\contentsline {section}{\numberline {9.3}Delkonklusion}{53}{section.9.3}
-\contentsline {part}{\partnumberline {IV} Syntese}{54}{part.4}
-\contentsline {chapter}{\chapternumberline {10}Diskussion}{55}{chapter.10}
-\contentsline {section}{\numberline {10.1}Metode}{55}{section.10.1}
-\contentsline {section}{\numberline {10.2}Teknologi}{56}{section.10.2}
-\contentsline {section}{\numberline {10.3}Patient}{56}{section.10.3}
-\contentsline {section}{\numberline {10.4}Organisation}{57}{section.10.4}
-\contentsline {section}{\numberline {10.5}\IeC {\O }konomi}{58}{section.10.5}
-\contentsline {section}{\numberline {10.6}Samlet diskussion}{59}{section.10.6}
-\contentsline {chapter}{\chapternumberline {11}Konklusion}{61}{chapter.11}
-\contentsline {chapter}{\chapternumberline {12}Anbefalinger}{62}{chapter.12}
-\contentsline {chapter}{Litteratur}{63}{section*.47}
-\contentsline {part}{\partnumberline {V}Bilag}{69}{part.5}
-\contentsline {appendix}{\chapternumberline {A}Patientforl\IeC {\o }b}{70}{chapter.A}
+\contentsline {subsection}{\numberline {8.1.2}Behandling af hypertension}{44}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.3}Aktivitetsarmb\IeC {\r a}nd i den nuv\IeC {\ae }rende organisation}{46}{subsection.8.1.3}
+\contentsline {section}{\numberline {8.2}Organisatoriske \IeC {\ae }ndringer}{46}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Efteruddannelse af personale}{47}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Analysering af data fra aktivitetsarmb\IeC {\r a}nd}{48}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Indk\IeC {\o }b af udstyr}{48}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Kontakt og information}{48}{subsection.8.2.4}
+\contentsline {subsubsection}{Mellem praktiserende afdeling/l\IeC {\ae }ge og producent}{48}{section*.42}
+\contentsline {subsubsection}{Mellem patient/borger og l\IeC {\ae }ge}{49}{section*.43}
+\contentsline {section}{\numberline {8.3}Delkonklusion}{49}{section.8.3}
+\contentsline {chapter}{\chapternumberline {9}\IeC {\O }konomi}{50}{chapter.9}
+\contentsline {section}{\numberline {9.1}Nuv\IeC {\ae }rende omkostninger i sundhedssektoren}{50}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Prim\IeC {\ae }r sektor}{50}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Sekund\IeC {\ae }r sektor}{51}{subsection.9.1.2}
+\contentsline {section}{\numberline {9.2}Omkostninger ved implementering af Fitbit Flex}{52}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Direkte omkostninger}{52}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Indirekte omkostninger}{53}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}Omkostninger i sundhedssektoren}{53}{subsection.9.2.3}
+\contentsline {section}{\numberline {9.3}Delkonklusion}{54}{section.9.3}
+\contentsline {part}{\partnumberline {IV} Syntese}{55}{part.4}
+\contentsline {chapter}{\chapternumberline {10}Diskussion}{56}{chapter.10}
+\contentsline {section}{\numberline {10.1}Metode}{56}{section.10.1}
+\contentsline {section}{\numberline {10.2}Teknologi}{57}{section.10.2}
+\contentsline {section}{\numberline {10.3}Patient}{57}{section.10.3}
+\contentsline {section}{\numberline {10.4}Organisation}{58}{section.10.4}
+\contentsline {section}{\numberline {10.5}\IeC {\O }konomi}{59}{section.10.5}
+\contentsline {section}{\numberline {10.6}Samlet diskussion}{60}{section.10.6}
+\contentsline {chapter}{\chapternumberline {11}Konklusion}{62}{chapter.11}
+\contentsline {chapter}{\chapternumberline {12}Anbefalinger}{63}{chapter.12}
+\contentsline {chapter}{Litteratur}{64}{section*.48}
+\contentsline {part}{\partnumberline {V}Bilag}{70}{part.5}
