@@ -61,7 +61,7 @@
 \contentsline {section}{\numberline {6.2}Fordele og begr\IeC {\ae }nsninger}{30}{section.6.2}
 \contentsline {subsection}{\numberline {6.2.1}N\IeC {\o }jagtighed af aktivitetsm\IeC {\r a}ling}{31}{subsection.6.2.1}
 \contentsline {section}{\numberline {6.3}Delkonklusion}{32}{section.6.3}
-\contentsline {chapter}{\chapternumberline {7}Patienten}{34}{chapter.7}
+\contentsline {chapter}{\chapternumberline {7}Patient}{34}{chapter.7}
 \contentsline {section}{\numberline {7.1}Patientkriterier for tildeling af aktivitetsarmb\IeC {\r a}nd}{34}{section.7.1}
 \contentsline {section}{\numberline {7.2}Brugertilfredshed}{35}{section.7.2}
 \contentsline {subsection}{\numberline {7.2.1}Brugerbed\IeC {\o }mmelse af Fitbit Flex}{35}{subsection.7.2.1}
@@ -71,7 +71,7 @@
 \contentsline {subsection}{\numberline {7.3.1}Sociale forhold}{38}{subsection.7.3.1}
 \contentsline {subsection}{\numberline {7.3.2}Individuelle forhold}{38}{subsection.7.3.2}
 \contentsline {section}{\numberline {7.4}Effekter af monitorering af aktivitetsniveau}{39}{section.7.4}
-\contentsline {section}{\numberline {7.5}Etiske problemstillinger}{40}{section.7.5}
+\contentsline {section}{\numberline {7.5}Etiske problemstillinger}{39}{section.7.5}
 \contentsline {subsection}{\numberline {7.5.1}Privatliv og persondata}{40}{subsection.7.5.1}
 \contentsline {subsection}{\numberline {7.5.2}Synlighed}{40}{subsection.7.5.2}
 \contentsline {subsection}{\numberline {7.5.3}Autonomi}{40}{subsection.7.5.3}
@@ -88,9 +88,9 @@
 \contentsline {subsection}{\numberline {8.1.3}Aktivitetsarmb\IeC {\r a}nd i den nuv\IeC {\ae }rende organisation}{47}{subsection.8.1.3}
 \contentsline {section}{\numberline {8.2}Organisatoriske \IeC {\ae }ndringer}{47}{section.8.2}
 \contentsline {subsection}{\numberline {8.2.1}Efteruddannelse af personale}{48}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Analysering af data fra aktivitetsarmb\IeC {\r a}nd}{49}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.2}Analyse af data fra aktivitetsarmb\IeC {\r a}nd}{49}{subsection.8.2.2}
 \contentsline {subsection}{\numberline {8.2.3}Indk\IeC {\o }b af udstyr}{49}{subsection.8.2.3}
-\contentsline {subsection}{\numberline {8.2.4}Kontakt og information}{50}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.4}Kontakt og information}{49}{subsection.8.2.4}
 \contentsline {subsubsection}{Mellem praktiserende afdeling/l\IeC {\ae }ge og producent}{50}{section*.41}
 \contentsline {subsubsection}{Mellem patient/borger og l\IeC {\ae }ge}{50}{section*.42}
 \contentsline {section}{\numberline {8.3}Delkonklusion}{50}{section.8.3}
